@@ -1,0 +1,25 @@
+#06Januari2023
+
+#EXTM3U
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/useemozaik.png" group-title="All",2 Mozaik Channel
+rtp://@239.1.2.223:9268
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useesport_newlogo.png" group-title="",85 USee Sports HD
+rtp://@239.1.2.203:9180
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useesports2_newlogo.png" group-title="",86 Usee Sports 2 HD
+rtp://@239.1.2.205:9186
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_seatoday_big.png" group-title="",87 SEA Today HD
+rtp://@239.1.2.70:8396
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useeprime_big1.png" group-title="",88 USee Prime HD
+rtp://@239.1.1.252:9486
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvri_big1.png" group-title="",100 TVRI HD
+rtp://@239.1.1.238:8016
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-metrotv.png" group-title="",101 Metro TV HD
+rtp://@239.1.2.2:7986
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnnindonesia_big1.png" group-title="",102 CNN Indonesia HD
+rtp://@239.1.1.180:9054
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-tvone-big1.png" group-title="",103 TV One
+rtp://@239.1.1.31:8160
