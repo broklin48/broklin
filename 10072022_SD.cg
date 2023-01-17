@@ -61,8 +61,6 @@ rtp://@239.1.1.197:9156
 rtp://@239.1.1.183:9072
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_jaktv_big1.png" group-title="Local Channel",116 Jak TV
 rtp://@239.1.1.107:8616
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/mncshop.png" group-title="Lifestyle",117 MNC Shop Supersale
-rtp://@239.1.2.54:8298
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-rtv-big1.png" group-title="Local Channel",118 RTV
 rtp://@239.1.1.69:8388
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_idx_big.png" group-title="Local Channel",119 IDX Channel
@@ -471,7 +469,7 @@ rtp://@239.1.2.13:8052
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-tlc_big.png" group-title="HD Channel",944 TLC HD
 rtp://@239.1.2.235:9342
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sone_big.png" group-title="HD Channel",945 ONE HD
-rtp://@239.1.2.26:8130
+rtp://@239.1.2.21:8100
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sgem_big.png" group-title="HD Channel",946 GEM HD
 rtp://@239.1.2.18:8082
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-techstorm_big.png" group-title="HD Channel",947 TechStorm HD
@@ -624,7 +622,7 @@ rtp://@239.1.1.23:8112
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cgtndocumentary_big1.png" group-title="Knowledge",924 CGTN Documentary HD
 rtp://@239.1.2.4:7998
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_discovery_big.png" group-title="Knowledge",927 Discovery HD
-rtp://@239.1.2.78:7984
+rtp://@239.1.1.247:9440
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-techstorm_big.png" group-title="Knowledge",947 TechStorm HD
 rtp://@239.1.2.229:9330
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/crimeinvestigation.png" group-title="Knowledge",997 Crime & Investigation HD
@@ -656,7 +654,7 @@ rtp://@239.1.2.211:9202
 rtp://@239.1.1.13:8052
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_axn_big.png" group-title="Gen Entertainment",960 AXN HD
 rtp://@239.1.1.245:9436
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueantext_big.png" group-title="Gen Entertainment",961 Rock Extreme HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueantext_big.png" group-title="Gen Entertainment",961 Rock Action HD
 rtp://@239.1.1.112:8646
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_lifetime_big.png" group-title="Gen Entertainment",962 Lifetime HD
 rtp://@239.1.1.25:8124
@@ -666,7 +664,7 @@ rtp://@239.1.2.34:8178
 rtp://@239.1.2.244:9078
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-hits_big.png" group-title="Gen Entertainment",965 Hits HD
 rtp://@239.1.1.209:9228
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueant_big.png" group-title="Gen Entertainment",967 Rock ENT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueant_big.png" group-title="Gen Entertainment",967 Rock Entertainment HD
 rtp://@239.1.2.76:9310
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvbsnews_big.png" group-title="News",897 TVBS News HD
@@ -747,7 +745,7 @@ rtp://@239.1.2.225:9318
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-myfamily_big.png" group-title="Movies",937 My Family Channel HD
 rtp://@239.1.1.237:9396
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sone_big.png" group-title="Movies",945 ONE HD
-rtp://@239.1.2.26:8130
+rtp://@239.1.2.21:8100
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/celectial.png" group-title="Movies",956 Celestial Movie HD
 rtp://@239.1.1.232:8014
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-mycinemaasia_big.png" group-title="Movies",957 My Cinema Asia HD
