@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1636640777219.jpg"group-title="",916 Indonesiana TV HD
 rtp://@239.1.1.176:9197
 #EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1636640777219.jpg"group-title="Knowledge",916 Indonesiana TV HD
@@ -493,7 +493,7 @@ rtp://@239.1.1.224:9320
 rtp://@239.1.1.185:9084
 #EXTINF:-1 tvg-logo="http://10.6.16.39:8080/iptvepg/images/markurl/mark_1581303974011.png"group-title="Religious",850 AlQuran Karim
 rtp://@239.1.1.185:9084
-#EXTINF:-1 tvg-logo="/storage/emulated/0/IPTVExtreme/logo/useemozaik.png"group-title="All",2 Mozaik Channel
+#EXTINF:-1 tvg-logo="/storage/emulated/0/IPTVExtreme/logo/useemozaik.png"group-title="",2 Mozaik Channel
 rtp://@239.1.2.223:9268
 #EXTINF:-1 tvg-logo="/storage/emulated/0/IPTVExtreme/logo/useemozaik.png"group-title="Local Channel",2 Mozaik Channel
 rtp://@239.1.2.223:9268
