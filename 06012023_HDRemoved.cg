@@ -423,8 +423,6 @@ rtp://@239.1.1.109:8623
 rtp://@239.1.1.196:9145
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nba_big1.png" group-title="Sports",708 NBA TV HD
 rtp://@239.1.2.210:9444
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_egg_big1.png" group-title="Sports",709 EGG HD
-#rtp://@239.1.1.235:8015
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-horizonsport_big.png" group-title="Sports",714 Horizon Sports HD
 rtp://@239.1.2.201:9174
 
