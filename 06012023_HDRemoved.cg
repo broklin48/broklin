@@ -1,4 +1,4 @@
-#06Januari2023
+#23Januari2023
 
 #EXTM3U
 
@@ -115,6 +115,8 @@ rtp://@239.1.2.81:8083
 rtp://@239.1.1.163:8084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dreamworks_big1.png" group-title="",310 Dream Work HD
 rtp://@239.1.1.234:9222
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_moonbug_big.png" group-title="",311 Moonbug Kids HD
+rtp://@239.1.1.235:8593
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_duniaanak_big1.png" group-title="",312 Dunia Anak
 rtp://@239.1.1.7:8016
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mykids_big.png" group-title="",313 MY KIDZ HD
@@ -499,6 +501,8 @@ rtp://@239.1.2.81:8083
 rtp://@239.1.1.163:8084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dreamworks_big1.png" group-title="Kids",310 Dream Work HD
 rtp://@239.1.1.234:9222
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_moonbug_big.png" group-title="Kids",311 Moonbug Kids HD
+rtp://@239.1.1.235:8593
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_duniaanak_big1.png" group-title="Kids",312 Dunia Anak
 rtp://@239.1.1.7:8016
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mykids_big.png" group-title="Kids",313 MY KIDZ HD
@@ -728,5 +732,3 @@ rtp://@239.1.2.206:9186
 
 ========================
 ========================
-
-
