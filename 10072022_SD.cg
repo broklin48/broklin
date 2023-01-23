@@ -1,4 +1,4 @@
-#10Juli2022
+#23Januari2023
 
 #EXTM3U
 
@@ -134,6 +134,8 @@ rtp://@239.1.1.123:8712
 rtp://@239.1.1.73:8412
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dreamworks_big1.png" group-title="Kids",310 Dream Work
 rtp://@239.1.1.139:8808
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_moonbug_big.png" group-title="Kids",311 Moonbug Kids HD
+rtp://@239.1.1.235:8593
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_duniaanak_big1.png" group-title="Kids",312 Dunia Anak
 rtp://@239.1.1.7:8016
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mykids_big.png" group-title="Kids",313 MY KIDZ
