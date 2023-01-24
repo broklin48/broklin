@@ -1,4 +1,4 @@
-#23Januari2023
+#24Januari2023
 
 #EXTM3U
 
@@ -31,8 +31,8 @@ rtp://@239.1.1.222:9306
 rtp://@239.1.2.3:7992
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-sctv-big1.png" group-title="",107 SCTV HD
 rtp://@239.1.2.58:8324
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-antv-big1.png" group-title="",108 ANTV
-rtp://@239.1.1.15:8064
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-antv-big1.png" group-title="",108 ANTV HD
+rtp://@239.1.1.153:8627
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-indosiar-big1.png" group-title="",109 Indosiar HD
 rtp://@239.1.1.214:8010
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/lejelhome.png" group-title="",110 Lejel Home Shopping
@@ -69,8 +69,8 @@ rtp://@239.1.1.10:9513
 rtp://@239.1.1.39:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nusantaratv_big.png" group-title="",128 Nusantara TV
 rtp://@239.1.2.102:9522
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_inews_big.png" group-title="",129 iNews
-rtp://@239.1.1.212:8967
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_inews_big.png" group-title="",129 iNews HD
+rtp://@239.1.1.75:8624
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rri_big1.png" group-title="",130 RRI Net
 rtp://@239.1.2.74:8420
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_gprtv_big1.png" group-title="",131 GPR TV
@@ -99,8 +99,8 @@ rtp://@239.1.1.23:8112
 rtp://@239.1.1.208:9502
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_discovery_big.png" group-title="",207 Discovery HD
 rtp://@239.1.1.247:9440
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_lingua_big.png" group-title="",208 Lingua
-rtp://@239.1.2.90:9500
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_lingua_big.png" group-title="",208 Lingua HD
+rtp://@239.1.1.131:8625
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-techstorm_big.png" group-title="",209 TechStorm HD
 rtp://@239.1.2.229:9330
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_davinci_big1.png" group-title="",303 Da Vinci HD
@@ -137,8 +137,8 @@ rtp://@239.1.2.237:9348
 rtp://@239.1.2.235:9342
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mtvlive_big.png" group-title="",450 MTV Live HD
 rtp://@239.1.2.16:8070
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_musikindo_big.png" group-title="",451 Musik Indonesia
-rtp://@239.1.2.108:9523
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_musikindo_big.png" group-title="",451 Musik Indonesia HD
+rtp://@239.1.1.152:8626
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_prambors_big1.png" group-title="",453 Prambors HD
 rtp://@239.1.1.254:8019
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ikonser_big.png" group-title="",459 i Konser HD
@@ -151,8 +151,8 @@ rtp://@239.1.1.112:8646
 rtp://@239.1.1.142:8967
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_insert_big1.png" group-title="",503 Insert
 rtp://@239.1.1.113:8652
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_seru_big.png" group-title="",504 Seru!
-rtp://@239.1.2.109:9524
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_seru_big.png" group-title="",504 Seru! HD
+rtp://@239.1.1.111:8624
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_lifetime_big.png" group-title="",505 Lifetime HD
 rtp://@239.1.1.25:8124
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kix_big.png" group-title="",506 KIX HD
@@ -347,8 +347,8 @@ rtp://@239.1.1.194:9138
 rtp://@239.1.1.222:9306
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-sctv-big1.png" group-title="Local Channel",107 SCTV HD
 rtp://@239.1.2.58:8324
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-antv-big1.png" group-title="Local Channel",108 ANTV
-rtp://@239.1.1.15:8064
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-antv-big1.png" group-title="Local Channel",108 ANTV HD
+rtp://@239.1.1.153:8627
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-indosiar-big1.png" group-title="Local Channel",109 Indosiar HD
 rtp://@239.1.1.214:8010
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_net_big1.png" group-title="Local Channel",112 Net TV HD
@@ -381,8 +381,8 @@ rtp://@239.1.1.10:9513
 rtp://@239.1.1.39:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nusantaratv_big.png" group-title="Local Channel",128 Nusantara TV
 rtp://@239.1.2.102:9522
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_inews_big.png" group-title="Local Channel",129 iNews
-rtp://@239.1.1.212:8967
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_inews_big.png" group-title="Local Channel",129 iNews HD
+rtp://@239.1.1.75:8624
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rri_big1.png" group-title="Local Channel",130 RRI Net
 rtp://@239.1.2.74:8420
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_gprtv_big1.png" group-title="Local Channel",131 GPR TV
@@ -529,8 +529,8 @@ rtp://@239.1.2.34:8178
 rtp://@239.1.1.112:8646
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_animax_big.png" group-title="Gen Entertainment",502 Animax HD
 rtp://@239.1.1.142:8967
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_seru_big.png" group-title="Gen Entertainment",504 Seru!
-rtp://@239.1.2.109:9524
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_seru_big.png" group-title="Gen Entertainment",504 Seru! HD
+rtp://@239.1.1.111:8624
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_lifetime_big.png" group-title="Gen Entertainment",505 Lifetime HD
 rtp://@239.1.1.25:8124
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kix_big.png" group-title="Gen Entertainment",506 KIX HD
@@ -623,8 +623,8 @@ rtp://@239.1.1.23:8112
 rtp://@239.1.1.208:9502
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_discovery_big.png" group-title="Knowledge",207 Discovery HD
 rtp://@239.1.1.247:9440
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_lingua_big.png" group-title="Knowledge",208 Lingua
-rtp://@239.1.2.90:9500
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_lingua_big.png" group-title="Knowledge",208 Lingua HD
+rtp://@239.1.1.131:8625
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-techstorm_big.png" group-title="Knowledge",209 TechStorm HD
 rtp://@239.1.2.229:9330
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_big.png" group-title="Knowledge",916 Indonesiana TV HD
@@ -635,8 +635,8 @@ rtp://@239.1.1.176:9197
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mtvlive_big.png" group-title="Music",450 MTV Live HD
 rtp://@239.1.2.16:8070
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_musikindo_big.png" group-title="Music",451 Musik Indonesia
-rtp://@239.1.2.108:9523
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_musikindo_big.png" group-title="Music",451 Musik Indonesia HD
+rtp://@239.1.1.152:8626
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_prambors_big1.png" group-title="Music",453 Prambors HD
 rtp://@239.1.1.254:8019
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ikonser_big.png" group-title="Music",459 i Konser HD
@@ -663,8 +663,8 @@ rtp://@239.1.1.114:9512
 rtp://@239.1.2.248:9398
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_antara_big1.png" group-title="News",124 Antara HD
 rtp://@239.1.1.104:9511
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_inews_big.png" group-title="News",129 iNews
-rtp://@239.1.1.212:8967
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_inews_big.png" group-title="News",129 iNews HD
+rtp://@239.1.1.75:8624
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mncnews2_big.png" group-title="News",134 MNC News
 rtp://@239.1.1.146:7985
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnbcid_big.png" group-title="News",135 CNBC Indonesia HD
