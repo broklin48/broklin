@@ -67,8 +67,6 @@ rtp://@239.1.1.104:9511
 rtp://@239.1.1.10:9513
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvrikalteng_big1.png" group-title="",126 TVRI Kalimantan Tengah
 rtp://@239.1.1.126:8533
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvedukasi_big1.png" group-title="",127 TV Edukasi
-rtp://@239.1.1.39:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nusantaratv_big.png" group-title="",128 Nusantara TV
 rtp://@239.1.2.102:9522
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_inews_big.png" group-title="",129 iNews HD
@@ -383,8 +381,6 @@ rtp://@239.1.1.104:9511
 rtp://@239.1.1.10:9513
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvrikalteng_big1.png" group-title="Local Channel",126 TVRI Kalimantan Tengah
 rtp://@239.1.1.126:8533
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvedukasi_big1.png" group-title="Local Channel",127 TV Edukasi
-rtp://@239.1.1.39:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nusantaratv_big.png" group-title="Local Channel",128 Nusantara TV
 rtp://@239.1.2.102:9522
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_inews_big.png" group-title="Local Channel",129 iNews HD
