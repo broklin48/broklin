@@ -1,4 +1,4 @@
-#24Januari2023
+#06Februari2023
 
 #EXTM3U
 
@@ -65,6 +65,8 @@ rtp://@239.1.1.6:8010
 rtp://@239.1.1.104:9511
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ochannel_big.png" group-title="",125 Moji HD
 rtp://@239.1.1.10:9513
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvrikalteng_big1.png" group-title="",126 TVRI Kalimantan Tengah
+rtp://@239.1.1.126:8533
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvedukasi_big1.png" group-title="",127 TV Edukasi
 rtp://@239.1.1.39:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nusantaratv_big.png" group-title="",128 Nusantara TV
@@ -167,6 +169,8 @@ rtp://@239.1.1.245:9436
 rtp://@239.1.1.55:8300
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueant_big.png" group-title="",511 Rock Entertainment HD
 rtp://@239.1.2.76:9310
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_hitsnow_ver1.png" group-title="",512 HITS Now HD
+rtp://@239.1.1.219:8535
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvn_big.png" group-title="",516 TVN HD
 rtp://@239.1.2.211:9202
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/kbsworld.png" group-title="",517 KBS World HD
@@ -377,6 +381,8 @@ rtp://@239.1.1.6:8010
 rtp://@239.1.1.104:9511
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ochannel_big.png" group-title="Local Channel",125 Moji HD
 rtp://@239.1.1.10:9513
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvrikalteng_big1.png" group-title="Local Channel",126 TVRI Kalimantan Tengah
+rtp://@239.1.1.126:8533
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvedukasi_big1.png" group-title="Local Channel",127 TV Edukasi
 rtp://@239.1.1.39:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nusantaratv_big.png" group-title="Local Channel",128 Nusantara TV
@@ -545,6 +551,8 @@ rtp://@239.1.1.245:9436
 rtp://@239.1.1.55:8300
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueant_big.png" group-title="Gen Entertainment",511 Rock Entertainment HD
 rtp://@239.1.2.76:9310
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_hitsnow_ver1.png" group-title="Gen Entertainment",512 HITS Now HD
+rtp://@239.1.1.219:8535
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvn_big.png" group-title="Gen Entertainment",516 TVN HD
 rtp://@239.1.2.211:9202
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/kbsworld.png" group-title="Gen Entertainment",517 KBS World HD
