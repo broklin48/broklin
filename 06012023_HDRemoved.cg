@@ -1,4 +1,4 @@
-#06Februari2023
+#07Februari2023
 
 #EXTM3U
 
@@ -11,37 +11,37 @@ rtp://@239.1.2.223:9268
 rtp://@239.1.2.203:9180
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useesports2_newlogo.png" group-title="",86 Usee Sports 2 HD
 rtp://@239.1.2.205:9186
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_seatoday_big.png" group-title="",87 SEA Today HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_seatoday_ver1.png" group-title="",87 SEA Today HD
 rtp://@239.1.2.70:8396
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useeprime_big1.png" group-title="",88 USee Prime HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useeprime_ver1.png" group-title="",88 USee Prime HD
 rtp://@239.1.1.252:9486
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvri_big1.png" group-title="",100 TVRI HD
 rtp://@239.1.1.238:8016
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-metrotv.png" group-title="",101 Metro TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_metrotv_ver1.png" group-title="",101 Metro TV HD
 rtp://@239.1.2.2:7986
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnnindonesia_big1.png" group-title="",102 CNN Indonesia HD
 rtp://@239.1.1.180:9054
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-tvone-big1.png" group-title="",103 TV One
 rtp://@239.1.1.31:8160
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-transtv-big1.png" group-title="",104 Trans TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_transtv_ver2.png" group-title="",104 Trans TV HD
 rtp://@239.1.1.194:9138
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-trans7-big1.png" group-title="",105 Trans 7 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_trans7_ver1.png" group-title="",105 Trans 7 HD
 rtp://@239.1.1.222:9306
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/lejelhome.png" group-title="",106 Lejel Home Shopping (Live)
 rtp://@239.1.2.3:7992
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-sctv-big1.png" group-title="",107 SCTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sctv_ver1.png" group-title="",107 SCTV HD
 rtp://@239.1.2.58:8324
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-antv-big1.png" group-title="",108 ANTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_antvnew_big.png" group-title="",108 ANTV HD
 rtp://@239.1.1.153:8627
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-indosiar-big1.png" group-title="",109 Indosiar HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indosiar_ver1.png" group-title="",109 Indosiar HD
 rtp://@239.1.1.214:8010
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/lejelhome.png" group-title="",110 Lejel Home Shopping
 rtp://@239.1.1.3:7992
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_net_big1.png" group-title="",112 Net TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_net_ver1.png" group-title="",112 Net TV HD
 rtp://@239.1.1.158:8922
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dramakorealbs_big.png" group-title="",113 Drama Korea LBS
 rtp://@239.1.2.101:9521
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-kompastv-big1.png" group-title="",114 Kompas TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kompastv_big.png" group-title="",114 Kompas TV HD
 rtp://@239.1.1.240:8017
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_beritasatu_big1.png" group-title="",115 BTV HD
 rtp://@239.1.1.114:9512
@@ -49,7 +49,7 @@ rtp://@239.1.1.114:9512
 rtp://@239.1.1.107:8616
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_iberkah.png" group-title="",117 iBerkah
 rtp://@239.1.1.12:7984
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-rtv-big1.png" group-title="",118 RTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rtv_ver1.png" group-title="",118 RTV HD
 rtp://@239.1.1.253:8018
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_idx_big.png" group-title="",119 IDX Channel
 rtp://@239.1.2.248:9398
@@ -71,29 +71,29 @@ rtp://@239.1.1.126:8533
 rtp://@239.1.2.102:9522
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_inews_big.png" group-title="",129 iNews HD
 rtp://@239.1.1.75:8624
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rri_big1.png" group-title="",130 RRI Net
-rtp://@239.1.2.74:8420
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rri_big1_hd.png" group-title="",130 RRI Net HD
+rtp://@239.1.1.130:9514
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_gprtv_big1.png" group-title="",131 GPR TV
 rtp://@239.1.2.17:9379
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_garudatv_big.png" group-title="",133 Garuda TV
 rtp://@239.1.1.164:8965
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mncnews2_big.png" group-title="",134 MNC News
 rtp://@239.1.1.146:7985
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnbcid_big.png" group-title="",135 CNBC Indonesia HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnbcindonesia_ver1.png" group-title="",135 CNBC Indonesia HD
 rtp://@239.1.2.94:9448
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_Jowo_channel.png" group-title="",137 Jowo
-rtp://@239.1.2.6:8000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_big.png" group-title="",200 Indonesiana TV
-rtp://@239.1.1.206:9199
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeo_big.png" group-title="",201 National Geographic HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_Jowo_channel_hd.png" group-title="", 137 Jowo HD
+rtp://@239.1.2.212:9208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_ver1.png" group-title="",200 Indonesiana TV HD
+rtp://@239.1.1.176:9197
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeo_ver1.png" group-title="",201 National Geographic HD
 rtp://239.1.1.243:9432
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeowild_big.png" group-title="",202 Natgeo Wild HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeowild_ver1.png" group-title="",202 Natgeo Wild HD
 rtp://@239.1.1.207:9216
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/crimeinvestigation.png" group-title="",203 Crime & Investigation HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_crimeinvest_big.png" group-title="",203 Crime & Investigation HD
 rtp://@239.1.1.223:8012
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cgtndocumentary_big1.png" group-title="",204 CGTN Documentary HD
 rtp://@239.1.2.4:7998
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_history_big.png" group-title="",205 History Channel HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_history_ver3.png" group-title="",205 History Channel HD
 rtp://@239.1.1.23:8112
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/pandatv.png" group-title="",206 Panda TV
 rtp://@239.1.1.208:9502
@@ -105,15 +105,15 @@ rtp://@239.1.1.131:8625
 rtp://@239.1.2.229:9330
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_davinci_big1.png" group-title="",303 Da Vinci HD
 rtp://@239.1.1.218:8011
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nickelodeon_big.png" group-title="",304 Nickelodeon HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nickelodeon_ver1.png" group-title="",304 Nickelodeon HD
 rtp://@239.1.1.14:7982
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nickjr_big.png" group-title="",305 Nick Junior HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nickjr_ver1.png" group-title="",305 Nick Junior HD
 rtp://@239.1.1.162:7983
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cartoonnetwork_big.png" group-title="",306 Cartoon Network HD
 rtp://@239.1.2.81:8083
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_boomerang_big.png" group-title="",308 Boomerang HD
 rtp://@239.1.1.163:8084
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dreamworks_big1.png" group-title="",310 Dream Work HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dreamworks_ver1.png" group-title="",310 Dream Work HD
 rtp://@239.1.1.234:9222
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_moonbug_big.png" group-title="",311 Moonbug Kids HD
 rtp://@239.1.1.235:8593
@@ -127,25 +127,25 @@ rtp://@239.1.1.201:9180
 rtp://@239.1.1.225:8013
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mentaritv_big.png" group-title="",316 Mentari TV HD
 rtp://@239.1.1.140:9515
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_afc_big.png" group-title="",402 AFN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_afc_ver1.png" group-title="",402 AFN HD
 rtp://@239.1.2.13:8052
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_eatgo_big1.png" group-title="",403 Eat & Go
 rtp://@239.1.1.229:9350
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fashiontv_big1.png" group-title="",404 Fashion TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fashiontv_ver1.png" group-title="",404 Fashion TV HD
 rtp://@239.1.2.237:9348
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-tlc_big.png" group-title="",406 TLC HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tlc_ver1.png" group-title="",406 TLC HD
 rtp://@239.1.2.235:9342
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mtvlive_big.png" group-title="",450 MTV Live HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mtvlive_ver1.png" group-title="",450 MTV Live HD
 rtp://@239.1.2.16:8070
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_musikindo_big.png" group-title="",451 Musik Indonesia HD
 rtp://@239.1.1.152:8626
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_prambors_big1.png" group-title="",453 Prambors HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_pramborstv_big1.png" group-title="",453 Prambors HD
 rtp://@239.1.1.254:8019
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ikonser_big.png" group-title="",459 i Konser HD
 rtp://@239.1.2.221:9250
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_hgtv_big.png" group-title="",500 HGTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_hgtv_ver1.png" group-title="",500 HGTV HD
 rtp://@239.1.2.34:8178
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueantext_big.png" group-title="",501 Rock Action HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueantextreme_ver1.png" group-title="",501 Rock Action HD
 rtp://@239.1.1.112:8646
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_animax_big.png" group-title="",502 Animax HD
 rtp://@239.1.1.142:8967
@@ -155,13 +155,13 @@ rtp://@239.1.1.113:8652
 rtp://@239.1.1.111:8624
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_lifetime_big.png" group-title="",505 Lifetime HD
 rtp://@239.1.1.25:8124
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kix_big.png" group-title="",506 KIX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kix_ver1.png" group-title="",506 KIX HD
 rtp://@239.1.2.207:9190
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-hits_big.png" group-title="",507 Hits HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_hits_ver1.png" group-title="",507 Hits HD
 rtp://@239.1.1.209:9228
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_warner_big.png" group-title="",508 Warner HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_warner_ver1.png" group-title="",508 Warner HD
 rtp://@239.1.2.244:9078
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_axn_big.png" group-title="",509 AXN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_axn_ver1.png" group-title="",509 AXN HD
 rtp://@239.1.1.245:9436
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tv5monde_big1.png" group-title="",510 TV5Monde
 rtp://@239.1.1.55:8300
@@ -169,15 +169,15 @@ rtp://@239.1.1.55:8300
 rtp://@239.1.2.76:9310
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_hitsnow_ver1.png" group-title="",512 HITS Now HD
 rtp://@239.1.1.219:8535
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvn_big.png" group-title="",516 TVN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvn_ver1.png" group-title="",516 TVN HD
 rtp://@239.1.2.211:9202
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/kbsworld.png" group-title="",517 KBS World HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kbsworld_ver1.png" group-title="",517 KBS World HD
 rtp://@239.1.1.13:8052
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_aniplus_big1.png" group-title="",518 Aniplus HD
 rtp://@239.1.2.104:9526
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nhkworld_big1.png" group-title="",519 NHK World Premium HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nhkworldpremium_big.png" group-title="",519 NHK World Premium HD
 rtp://@239.1.1.174:9018
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kplus_big1.png" group-title="",523 K+ HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kplus_ver1.png" group-title="",523 K+ HD
 rtp://@239.1.1.202:9186
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_formosa_big.png" group-title="",524 Formosa 
 rtp://@239.1.2.198:9386
@@ -199,17 +199,17 @@ rtp://@239.1.1.24:9517
 rtp://@239.1.2.18:8082
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sone_big.png" group-title="",537 One HD
 rtp://@239.1.2.21:8100
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/Zhejiang-Television.png" group-title="",538 Zhejiang International
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_zhejiang_big.png" group-title="",538 Zhejiang International
 rtp://@239.1.1.154:8898
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/Shenzen-Television.png" group-title="",539 Shenzen International
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_shenzen_big.png" group-title="",539 Shenzen International
 rtp://@239.1.1.156:8910
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ebcasia_big.png" group-title="",540 EBC Asia
 rtp://@239.1.2.196:9406
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/kungfutv.png" group-title="",541 NewTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kungfutv_big.png" group-title="",541 NewTV
 rtp://@239.1.2.40:8206
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_chinesedrama_big.png" group-title="",542 Chinese Drama
 rtp://@239.1.2.10:8306
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-paramount_big.png" group-title="",600 Paramount HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_paramount_ver1.png" group-title="",600 Paramount HD
 rtp://@239.1.1.211:9240
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbo.png" group-title="",601 HBO HD
 rtp://@239.1.1.203:9192
@@ -221,21 +221,21 @@ rtp://@239.1.2.247:9372
 rtp://@239.1.1.215:9264
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbofamily.png" group-title="",605 HBO Family HD
 rtp://@239.1.2.245:9366
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-hitsmovie_big.png" group-title="",606 Hits Movies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_hitsmovie_ver1.png" group-title="",606 Hits Movies HD
 rtp://@239.1.1.190:9116
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_thrill_big.png" group-title="",610 Thrill
 rtp://@239.1.1.83:8472
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/celectial.png" group-title="",611 Celestial Movies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_celestialmovie_big.png" group-title="",611 Celestial Movies HD
 rtp://@239.1.1.232:8014
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-mycinema_big.png" group-title="",612 My Cinema HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mycinema_ver1.png" group-title="",612 My Cinema HD
 rtp://@239.1.2.225:9318
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/tvnmovie.png" group-title="",613 TVN Movies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvnmovies_ver1.png" group-title="",613 TVN Movies HD
 rtp://@239.1.2.72:8408
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_zbioskop_big1.png" group-title="",614 Zee Bioskop
 rtp://@239.1.1.129:8748
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinemaworld.png" group-title="",615 Cinema World HD
 rtp://@239.1.2.80:8578
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-myfamily_big.png" group-title="",616 My Family Channel HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_myfamily_ver1.png" group-title="",616 My Family Channel HD
 rtp://@239.1.1.237:9396
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_galaxy_big1.png" group-title="",617 Galaxy HD
 rtp://@239.1.1.136:8790
@@ -249,30 +249,30 @@ rtp://@239.1.1.145:8844
 rtp://@239.1.2.100:9518
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-mycinemaasia_big.png" group-title="",624 My Cinema Asia HD
 rtp://@239.1.1.231:8062
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-bein1-big1.png" group-title="",701 Bein 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bein1_ver1.png" group-title="",701 Bein 1 HD
 rtp://@239.1.1.248:9494
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-bein3-big1.png" group-title="",702 Bein 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bein2_ver1.png" group-title="",702 Bein 3 HD
 rtp://@239.1.1.249:9496
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fight_big1.png" group-title="",704 Fight Sport HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fightsport_ver1.png" group-title="",704 Fight Sport HD
 rtp://@239.1.2.209:9196
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv_big.png" group-title="",705 SPOTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv_ver1.png" group-title="",705 SPOTV HD
 rtp://@239.1.1.109:8623
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_big.png" group-title="",706 SPOTV 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_ver1.png" group-title="",706 SPOTV 2 HD
 rtp://@239.1.1.196:9145
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nba_big1.png" group-title="",708 NBA TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nba_ver1.png" group-title="",708 NBA TV HD
 rtp://@239.1.2.210:9444
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-horizonsport_big.png" group-title="",714 Horizon Sports HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_horizonsport_ver1.png" group-title="",714 Horizon Sports HD
 rtp://@239.1.2.201:9174
 ==kuncoro
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_euronews_big1.png" group-title="",800 Euronews
 rtp://@239.1.1.193:9132
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnninternational_big.png" group-title="",801 CNN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnninternational_ver1.png" group-title="",801 CNN HD
 rtp://@239.1.1.246:9438
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bloomberg_big1.png" group-title="",802 Bloomberg HD
 rtp://@239.1.2.105:9520
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnbcasias_big.png" group-title="",803 CNBC Asia HD
 rtp://@239.1.1.46:8413
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_newsasia_big1.png" group-title="",804 Channel News Asia HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_newsasia_big.png" group-title="",804 Channel News Asia HD
 rtp://@239.1.2.23:8112
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_aljazeera_big1.png" group-title="",805 Aljazeera HD
 rtp://@239.1.2.8:8022
@@ -280,7 +280,7 @@ rtp://@239.1.2.8:8022
 rtp://@239.1.2.22:8106
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nhkworld_big.png" group-title="",807 NHK World Japan HD
 rtp://@239.1.2.239:9354
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dwtv_big.png" group-title="",808 DW HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dwtv_ver1.png" group-title="",808 DW HD
 rtp://@239.1.2.243:9360
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvbsnews_big.png" group-title="",809 TVBS News HD
 rtp://@239.1.1.48:8414
@@ -306,22 +306,16 @@ rtp://@239.1.2.52:8286
 rtp://@239.1.1.78:8442
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_uchannel_big1.png" group-title="",871 U Channel
 rtp://@239.1.1.220:9522
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rri_big1.png" group-title="",887 RRI Net HD
-rtp://@239.1.1.130:9514
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbo.png" group-title="",891 HBO Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbodolby.png" group-title="",891 HBO Dolby HD
 rtp://@239.1.2.114:9428
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbosignature.png" group-title="",892 HBO Signature Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbosignaturedolby.png" group-title="",892 HBO Signature Dolby HD
 rtp://@239.1.2.116:9404
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbohits.png" group-title="",893 HBO Hits Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbohitsdolby.png" group-title="",893 HBO Hits Dolby HD
 rtp://@239.1.2.204:9182
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbofamily.png" group-title="",894 HBO Family Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbofamilydolby.png" group-title="",894 HBO Family Dolby HD
 rtp://@239.1.2.202:9176
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinemax.png" group-title="",895 Cinemax Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinemaxdolby.png" group-title="",895 Cinemax Dolby HD
 rtp://@239.1.2.206:9186
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_big.png" group-title="",916 Indonesiana TV HD
-rtp://@239.1.1.176:9197
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_Jowo_channel.png" group-title="", 917 Jowo HD
-rtp://@239.1.2.212:9208
 
 ========================
 ========================
@@ -331,31 +325,31 @@ rtp://@239.1.2.212:9208
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/useemozaik.png" group-title="Local Channel",2 Mozaik Channel
 rtp://@239.1.2.223:9268
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_seatoday_big.png" group-title="Local Channel",87 SEA Today HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_seatoday_ver1.png" group-title="Local Channel",87 SEA Today HD
 rtp://@239.1.2.70:8396
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useeprime_big1.png" group-title="Local Channel",88 USee Prime HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useeprime_ver1.png" group-title="Local Channel",88 USee Prime HD
 rtp://@239.1.1.252:9486
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvri_big1.png" group-title="Local Channel",100 TVRI HD
 rtp://@239.1.1.238:8016
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-metrotv.png" group-title="Local Channel",101 Metro TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_metrotv_ver1.png" group-title="Local Channel",101 Metro TV HD
 rtp://@239.1.2.2:7986
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnnindonesia_big1.png" group-title="Local Channel",102 CNN Indonesia HD
 rtp://@239.1.1.180:9054
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-tvone-big1.png" group-title="Local Channel",103 TV One
 rtp://@239.1.1.31:8160
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-transtv-big1.png" group-title="Local Channel",104 Trans TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_transtv_ver2.png" group-title="Local Channel",104 Trans TV HD
 rtp://@239.1.1.194:9138
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-trans7-big1.png" group-title="Local Channel",105 Trans 7 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_trans7_ver1.png" group-title="Local Channel",105 Trans 7 HD
 rtp://@239.1.1.222:9306
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-sctv-big1.png" group-title="Local Channel",107 SCTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sctv_ver1.png" group-title="Local Channel",107 SCTV HD
 rtp://@239.1.2.58:8324
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-antv-big1.png" group-title="Local Channel",108 ANTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_antvnew_big.png" group-title="Local Channel",108 ANTV HD
 rtp://@239.1.1.153:8627
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-indosiar-big1.png" group-title="Local Channel",109 Indosiar HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indosiar_ver1.png" group-title="Local Channel",109 Indosiar HD
 rtp://@239.1.1.214:8010
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_net_big1.png" group-title="Local Channel",112 Net TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_net_ver1.png" group-title="Local Channel",112 Net TV HD
 rtp://@239.1.1.158:8922
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-kompastv-big1.png" group-title="Local Channel",114 Kompas TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kompastv_big.png" group-title="Local Channel",114 Kompas TV HD
 rtp://@239.1.1.240:8017
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_beritasatu_big1.png" group-title="Local Channel",115 BTV HD
 rtp://@239.1.1.114:9512
@@ -363,7 +357,7 @@ rtp://@239.1.1.114:9512
 rtp://@239.1.1.107:8616
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_iberkah.png" group-title="Local Channel",117 iBerkah
 rtp://@239.1.1.12:7984
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-rtv-big1.png" group-title="Local Channel",118 RTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rtv_ver1.png" group-title="Local Channel",118 RTV HD
 rtp://@239.1.1.253:8018
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_idx_big.png" group-title="Local Channel",119 IDX Channel
 rtp://@239.1.2.248:9398
@@ -385,28 +379,22 @@ rtp://@239.1.1.126:8533
 rtp://@239.1.2.102:9522
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_inews_big.png" group-title="Local Channel",129 iNews HD
 rtp://@239.1.1.75:8624
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rri_big1.png" group-title="Local Channel",130 RRI Net
-rtp://@239.1.2.74:8420
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rri_big1_hd.png" group-title="Local Channel",130 RRI Net HD
+rtp://@239.1.1.130:9514
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_gprtv_big1.png" group-title="Local Channel",131 GPR TV
 rtp://@239.1.2.17:9379
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_garudatv_big.png" group-title="Local Channel",133 Garuda TV
 rtp://@239.1.1.164:8965
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mncnews2_big.png" group-title="Local Channel",134 MNC News
 rtp://@239.1.1.146:7985
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnbcid_big.png" group-title="Local Channel",135 CNBC Indonesia HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnbcindonesia_ver1.png" group-title="Local Channel",135 CNBC Indonesia HD
 rtp://@239.1.2.94:9448
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_Jowo_channel.png" group-title="Local Channel",137 Jowo
-rtp://@239.1.2.6:8000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_big.png" group-title="Local Channel",200 Indonesiana TV
-rtp://@239.1.1.206:9199
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_Jowo_channel_hd.png" group-title="Local Channel", 137 Jowo HD
+rtp://@239.1.2.212:9208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_ver1.png" group-title="Local Channel",200 Indonesiana TV HD
+rtp://@239.1.1.176:9197
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_insert_big1.png" group-title="Local Channel",503 Insert
 rtp://@239.1.1.113:8652
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rri_big1.png" group-title="Local Channel",887 RRI Net HD
-rtp://@239.1.1.130:9514
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_big.png" group-title="Local Channel",916 Indonesiana TV HD
-rtp://@239.1.1.176:9197
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_Jowo_channel.png" group-title="Local Channel", 917 Jowo HD
-rtp://@239.1.2.212:9208
 
 ========================
 ========================
@@ -415,29 +403,29 @@ rtp://@239.1.2.212:9208
 rtp://@239.1.2.203:9180
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useesports2_newlogo.png" group-title="Sports",86 Usee Sports 2 HD
 rtp://@239.1.2.205:9186
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-bein1-big1.png" group-title="Sports",701 Bein 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bein1_ver1.png" group-title="Sports",701 Bein 1 HD
 rtp://@239.1.1.248:9494
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-bein3-big1.png" group-title="Sports",702 Bein 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bein2_ver1.png" group-title="Sports",702 Bein 3 HD
 rtp://@239.1.1.249:9496
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fight_big1.png" group-title="Sports",704 Fight Sport HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fightsport_ver1.png" group-title="Sports",704 Fight Sport HD
 rtp://@239.1.2.209:9196
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv_big.png" group-title="Sports",705 SPOTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv_ver1.png" group-title="Sports",705 SPOTV HD
 rtp://@239.1.1.109:8623
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_big.png" group-title="Sports",706 SPOTV 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_ver1.png" group-title="Sports",706 SPOTV 2 HD
 rtp://@239.1.1.196:9145
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nba_big1.png" group-title="Sports",708 NBA TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nba_ver1.png" group-title="Sports",708 NBA TV HD
 rtp://@239.1.2.210:9444
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-horizonsport_big.png" group-title="Sports",714 Horizon Sports HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_horizonsport_ver1.png" group-title="Sports",714 Horizon Sports HD
 rtp://@239.1.2.201:9174
 
 ========================
 ========================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueantext_big.png" group-title="Movies",501 Rock Action HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueantextreme_ver1.png" group-title="Movies",501 Rock Action HD
 rtp://@239.1.1.112:8646
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sone_big.png" group-title="Movies",537 One HD
 rtp://@239.1.2.21:8100
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-paramount_big.png" group-title="Movies",600 Paramount HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_paramount_ver1.png" group-title="Movies",600 Paramount HD
 rtp://@239.1.1.211:9240
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbo.png" group-title="Movies",601 HBO HD
 rtp://@239.1.1.203:9192
@@ -449,21 +437,21 @@ rtp://@239.1.2.247:9372
 rtp://@239.1.1.215:9264
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbofamily.png" group-title="Movies",605 HBO Family HD
 rtp://@239.1.2.245:9366
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-hitsmovie_big.png" group-title="Movies",606 Hits Movies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_hitsmovie_ver1.png" group-title="Movies",606 Hits Movies HD
 rtp://@239.1.1.190:9116
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_thrill_big.png" group-title="Movies",610 Thrill
 rtp://@239.1.1.83:8472
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/celectial.png" group-title="Movies",611 Celestial Movies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_celestialmovie_big.png" group-title="Movies",611 Celestial Movies HD
 rtp://@239.1.1.232:8014
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-mycinema_big.png" group-title="Movies",612 My Cinema HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mycinema_ver1.png" group-title="Movies",612 My Cinema HD
 rtp://@239.1.2.225:9318
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/tvnmovie.png" group-title="Movies",613 TVN Movies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvnmovies_ver1.png" group-title="Movies",613 TVN Movies HD
 rtp://@239.1.2.72:8408
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_zbioskop_big1.png" group-title="Movies",614 Zee Bioskop
 rtp://@239.1.1.129:8748
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinemaworld.png" group-title="Movies",615 Cinema World HD
 rtp://@239.1.2.80:8578
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-myfamily_big.png" group-title="Movies",616 My Family Channel HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_myfamily_ver1.png" group-title="Movies",616 My Family Channel HD
 rtp://@239.1.1.237:9396
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_galaxy_big1.png" group-title="Movies",617 Galaxy HD
 rtp://@239.1.1.136:8790
@@ -477,15 +465,15 @@ rtp://@239.1.1.145:8844
 rtp://@239.1.2.100:9518
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-mycinemaasia_big.png" group-title="Movies",624 My Cinema Asia HD
 rtp://@239.1.1.231:8062
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbo.png" group-title="Movies",891 HBO Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbodolby.png" group-title="Movies",891 HBO Dolby HD
 rtp://@239.1.2.114:9428
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbosignature.png" group-title="Movies",892 HBO Signature Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbosignaturedolby.png" group-title="Movies",892 HBO Signature Dolby HD
 rtp://@239.1.2.116:9404
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbohits.png" group-title="Movies",893 HBO Hits Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbohitsdolby.png" group-title="Movies",893 HBO Hits Dolby HD
 rtp://@239.1.2.204:9182
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbofamily.png" group-title="Movies",894 HBO Family Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbofamilydolby.png" group-title="Movies",894 HBO Family Dolby HD
 rtp://@239.1.2.202:9176
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinemax.png" group-title="Movies",895 Cinemax Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinemaxdolby.png" group-title="Movies",895 Cinemax Dolby HD
 rtp://@239.1.2.206:9186
 
 ========================
@@ -493,15 +481,15 @@ rtp://@239.1.2.206:9186
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_davinci_big1.png" group-title="Kids",303 Da Vinci HD
 rtp://@239.1.1.218:8011
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nickelodeon_big.png" group-title="Kids",304 Nickelodeon HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nickelodeon_ver1.png" group-title="Kids",304 Nickelodeon HD
 rtp://@239.1.1.14:7982
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nickjr_big.png" group-title="Kids",305 Nick Junior HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nickjr_ver1.png" group-title="Kids",305 Nick Junior HD
 rtp://@239.1.1.162:7983
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cartoonnetwork_big.png" group-title="Kids",306 Cartoon Network HD
 rtp://@239.1.2.81:8083
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_boomerang_big.png" group-title="Kids",308 Boomerang HD
 rtp://@239.1.1.163:8084
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dreamworks_big1.png" group-title="Kids",310 Dream Work HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dreamworks_ver1.png" group-title="Kids",310 Dream Work HD
 rtp://@239.1.1.234:9222
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_moonbug_big.png" group-title="Kids",311 Moonbug Kids HD
 rtp://@239.1.1.235:8593
@@ -519,15 +507,15 @@ rtp://@239.1.1.140:9515
 ========================
 ========================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useeprime_big1.png" group-title="Gen Entertainment",88 USee Prime HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useeprime_ver1.png" group-title="Gen Entertainment",88 USee Prime HD
 rtp://@239.1.1.252:9486
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dramakorealbs_big.png" group-title="Gen Entertainment",113 Drama Korea LBS
 rtp://@239.1.2.101:9521
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-tlc_big.png" group-title="Gen Entertainment",406 TLC HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tlc_ver1.png" group-title="Gen Entertainment",406 TLC HD
 rtp://@239.1.2.235:9342
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_hgtv_big.png" group-title="Gen Entertainment",500 HGTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_hgtv_ver1.png" group-title="Gen Entertainment",500 HGTV HD
 rtp://@239.1.2.34:8178
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueantext_big.png" group-title="Gen Entertainment",501 Rock Action HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueantextreme_ver1.png" group-title="Gen Entertainment",501 Rock Action HD
 rtp://@239.1.1.112:8646
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_animax_big.png" group-title="Gen Entertainment",502 Animax HD
 rtp://@239.1.1.142:8967
@@ -535,13 +523,13 @@ rtp://@239.1.1.142:8967
 rtp://@239.1.1.111:8624
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_lifetime_big.png" group-title="Gen Entertainment",505 Lifetime HD
 rtp://@239.1.1.25:8124
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kix_big.png" group-title="Gen Entertainment",506 KIX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kix_ver1.png" group-title="Gen Entertainment",506 KIX HD
 rtp://@239.1.2.207:9190
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-hits_big.png" group-title="Gen Entertainment",507 Hits HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_hits_ver1.png" group-title="Gen Entertainment",507 Hits HD
 rtp://@239.1.1.209:9228
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_warner_big.png" group-title="Gen Entertainment",508 Warner HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_warner_ver1.png" group-title="Gen Entertainment",508 Warner HD
 rtp://@239.1.2.244:9078
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_axn_big.png" group-title="Gen Entertainment",509 AXN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_axn_ver1.png" group-title="Gen Entertainment",509 AXN HD
 rtp://@239.1.1.245:9436
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tv5monde_big1.png" group-title="Gen Entertainment",510 TV5Monde
 rtp://@239.1.1.55:8300
@@ -549,15 +537,15 @@ rtp://@239.1.1.55:8300
 rtp://@239.1.2.76:9310
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_hitsnow_ver1.png" group-title="Gen Entertainment",512 HITS Now HD
 rtp://@239.1.1.219:8535
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvn_big.png" group-title="Gen Entertainment",516 TVN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvn_ver1.png" group-title="Gen Entertainment",516 TVN HD
 rtp://@239.1.2.211:9202
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/kbsworld.png" group-title="Gen Entertainment",517 KBS World HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kbsworld_ver1.png" group-title="Gen Entertainment",517 KBS World HD
 rtp://@239.1.1.13:8052
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_aniplus_big1.png" group-title="Gen Entertainment",518 Aniplus HD
 rtp://@239.1.2.104:9526
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nhkworld_big1.png" group-title="Gen Entertainment",519 NHK World Premium HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nhkworldpremium_big.png" group-title="Gen Entertainment",519 NHK World Premium HD
 rtp://@239.1.1.174:9018
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kplus_big1.png" group-title="Gen Entertainment",523 K+ HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kplus_ver1.png" group-title="Gen Entertainment",523 K+ HD
 rtp://@239.1.1.202:9186
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_formosa_big.png" group-title="Gen Entertainment",524 Formosa 
 rtp://@239.1.2.198:9386
@@ -575,13 +563,13 @@ rtp://@239.1.1.115:8664
 rtp://@239.1.1.230:9516
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sgem_big.png" group-title="Gen Entertainment",536 Gem HD
 rtp://@239.1.2.18:8082
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/Zhejiang-Television.png" group-title="Gen Entertainment",538 Zhejiang International
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_zhejiang_big.png" group-title="Gen Entertainment",538 Zhejiang International
 rtp://@239.1.1.154:8898
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/Shenzen-Television.png" group-title="Gen Entertainment",539 Shenzen International
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_shenzen_big.png" group-title="Gen Entertainment",539 Shenzen International
 rtp://@239.1.1.156:8910
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ebcasia_big.png" group-title="Gen Entertainment",540 EBC Asia
 rtp://@239.1.2.196:9406
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/kungfutv.png" group-title="Gen Entertainment",541 NewTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kungfutv_big.png" group-title="Gen Entertainment",541 NewTV
 rtp://@239.1.2.40:8206
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_chinesedrama_big.png" group-title="Gen Entertainment",542 Chinese Drama
 rtp://@239.1.2.10:8306
@@ -601,27 +589,27 @@ rtp://@239.1.2.101:9521
 rtp://@239.1.1.12:7984
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-atv-big1.png" group-title="Lifestyle",121 ATV
 rtp://@239.1.2.88:8308
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_afc_big.png" group-title="Lifestyle",402 AFN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_afc_ver1.png" group-title="Lifestyle",402 AFN HD
 rtp://@239.1.2.13:8052
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_eatgo_big1.png" group-title="Lifestyle",403 Eat & Go
 rtp://@239.1.1.229:9350
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fashiontv_big1.png" group-title="Lifestyle",404 Fashion TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fashiontv_ver1.png" group-title="Lifestyle",404 Fashion TV HD
 rtp://@239.1.2.237:9348
 
 ========================
 ========================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_big.png" group-title="Knowledge",200 Indonesiana TV
-rtp://@239.1.1.206:9199
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeo_big.png" group-title="Knowledge",201 National Geographic HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_ver1.png" group-title="Knowledge",200 Indonesiana TV HD
+rtp://@239.1.1.176:9197
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeo_ver1.png" group-title="Knowledge",201 National Geographic HD
 rtp://239.1.1.243:9432
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeowild_big.png" group-title="Knowledge",202 Natgeo Wild HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeowild_ver1.png" group-title="Knowledge",202 Natgeo Wild HD
 rtp://@239.1.1.207:9216
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/crimeinvestigation.png" group-title="Knowledge",203 Crime & Investigation HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_crimeinvest_big.png" group-title="Knowledge",203 Crime & Investigation HD
 rtp://@239.1.1.223:8012
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cgtndocumentary_big1.png" group-title="Knowledge",204 CGTN Documentary HD
 rtp://@239.1.2.4:7998
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_history_big.png" group-title="Knowledge",205 History Channel HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_history_ver3.png" group-title="Knowledge",205 History Channel HD
 rtp://@239.1.1.23:8112
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/pandatv.png" group-title="Knowledge",206 Panda TV
 rtp://@239.1.1.208:9502
@@ -631,17 +619,15 @@ rtp://@239.1.1.247:9440
 rtp://@239.1.1.131:8625
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-techstorm_big.png" group-title="Knowledge",209 TechStorm HD
 rtp://@239.1.2.229:9330
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_big.png" group-title="Knowledge",916 Indonesiana TV HD
-rtp://@239.1.1.176:9197
 
 ========================
 ========================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mtvlive_big.png" group-title="Music",450 MTV Live HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mtvlive_ver1.png" group-title="Music",450 MTV Live HD
 rtp://@239.1.2.16:8070
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_musikindo_big.png" group-title="Music",451 Musik Indonesia HD
 rtp://@239.1.1.152:8626
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_prambors_big1.png" group-title="Music",453 Prambors HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_pramborstv_big1.png" group-title="Music",453 Prambors HD
 rtp://@239.1.1.254:8019
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ikonser_big.png" group-title="Music",459 i Konser HD
 rtp://@239.1.2.221:9250
@@ -651,15 +637,15 @@ rtp://@239.1.1.24:9517
 =======================
 =======================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_seatoday_big.png" group-title="News",87 SEA Today HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_seatoday_ver1.png" group-title="News",87 SEA Today HD
 rtp://@239.1.2.70:8396
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-metrotv.png" group-title="News",101 Metro TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_metrotv_ver1.png" group-title="News",101 Metro TV HD
 rtp://@239.1.2.2:7986
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnnindonesia_big1.png" group-title="News",102 CNN Indonesia HD
 rtp://@239.1.1.180:9054
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-tvone-big1.png" group-title="News",103 TV One
 rtp://@239.1.1.31:8160
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-kompastv-big1.png" group-title="News",114 Kompas TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kompastv_big.png" group-title="News",114 Kompas TV HD
 rtp://@239.1.1.240:8017
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_beritasatu_big1.png" group-title="News",115 BTV HD
 rtp://@239.1.1.114:9512
@@ -671,25 +657,25 @@ rtp://@239.1.1.104:9511
 rtp://@239.1.1.75:8624
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mncnews2_big.png" group-title="News",134 MNC News
 rtp://@239.1.1.146:7985
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnbcid_big.png" group-title="News",135 CNBC Indonesia HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnbcindonesia_ver1.png" group-title="News",135 CNBC Indonesia HD
 rtp://@239.1.2.94:9448
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_abcaustralia_big.png" group-title="News",531 ABC Australia HD
 rtp://@239.1.1.26:9519
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_euronews_big1.png" group-title="News",800 Euronews
 rtp://@239.1.1.193:9132
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnninternational_big.png" group-title="News",801 CNN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnninternational_ver1.png" group-title="News",801 CNN HD
 rtp://@239.1.1.246:9438
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bloomberg_big1.png" group-title="News",802 Bloomberg HD
 rtp://@239.1.2.105:9520
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnbcasias_big.png" group-title="News",803 CNBC Asia HD
 rtp://@239.1.1.46:8413
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_newsasia_big1.png" group-title="News",804 Channel News Asia HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_newsasia_big.png" group-title="News",804 Channel News Asia HD
 rtp://@239.1.2.23:8112
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_aljazeera_big1.png" group-title="News",805 Aljazeera HD
 rtp://@239.1.2.8:8022
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_france24_big.png" group-title="News",806 France24 HD
 rtp://@239.1.2.22:8106
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dwtv_big.png" group-title="News",808 DW HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dwtv_ver1.png" group-title="News",808 DW HD
 rtp://@239.1.2.243:9360
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvbsnews_big.png" group-title="News",809 TVBS News HD
 rtp://@239.1.1.48:8414
@@ -723,15 +709,15 @@ rtp://@239.1.1.220:9522
 ========================
 ========================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbo.png" group-title="Dolby",891 HBO Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbodolby.png" group-title="Dolby",891 HBO Dolby HD
 rtp://@239.1.2.114:9428
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbosignature.png" group-title="Dolby",892 HBO Signature Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbosignaturedolby.png" group-title="Dolby",892 HBO Signature Dolby HD
 rtp://@239.1.2.116:9404
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbohits.png" group-title="Dolby",893 HBO Hits Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbohitsdolby.png" group-title="Dolby",893 HBO Hits Dolby HD
 rtp://@239.1.2.204:9182
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbofamily.png" group-title="Dolby",894 HBO Family Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbofamilydolby.png" group-title="Dolby",894 HBO Family Dolby HD
 rtp://@239.1.2.202:9176
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinemax.png" group-title="Dolby",895 Cinemax Dolby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinemaxdolby.png" group-title="Dolby",895 Cinemax Dolby HD
 rtp://@239.1.2.206:9186
 
 ========================
