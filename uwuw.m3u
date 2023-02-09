@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rcti_hd.png" group-title="All Channel",RCTI (RCTI+)
+#EXTVLCOPT:http-referrer=https://api.rctiplus.com/
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://rcti-eg.rctiplus.id/rcti-sdi.m3u8
+
+#EXTINF:-1 group-title="TV Nasional" tvg-id="INEWS" tvg-logo="https://i.imgur.com/udlCqCI.png",INEWS (RCTI+)
+#EXTVLCOPT:http-referrer=https://api.rctiplus.com/
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win6 x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://inews-eg.rctiplus.id/inews-sdi.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_gtv_hd.png" group-title="All Channel",GTV (RCTI+)
+#EXTVLCOPT:http-referrer=https://api.rctiplus.com/
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://gtv-eg.rctiplus.id/gtv-sdi.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mnc_hd.png" group-title="All Channel",MNCTV (RCTI+)
+#EXTVLCOPT:http-referrer=https://api.rctiplus.com/
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mnctv-eg.rctiplus.id/mnctv-sdi.m3u8
+
+=======================================
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rcti_hd.png" group-title="All Channel",RCTI (rcti+)
+https://dash-rcti.rctiplus.id/rcti-sdi.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rcti_hd.png" group-title="All Channel",GTV (rcti+)
+https://dash-gtv.rctiplus.id/gtv-sdi.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mnc_hd.png" group-title="All Channel",MNC TV (rcti+)
+https://dash-mnctv.rctiplus.id/mnctv-sdi.mpd
