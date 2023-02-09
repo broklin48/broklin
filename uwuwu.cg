@@ -24,7 +24,7 @@ https://mnctv-eg.rctiplus.id/mnctv-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rcti_hd.png" group-title="All Channel",RCTI (rcti+)
 https://dash-rcti.rctiplus.id/rcti-sdi.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rcti_hd.png" group-title="All Channel",GTV (rcti+)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_gtv_hd.png" group-title="All Channel",GTV (rcti+)
 https://dash-gtv.rctiplus.id/gtv-sdi.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mnc_hd.png" group-title="All Channel",MNC TV (rcti+)
