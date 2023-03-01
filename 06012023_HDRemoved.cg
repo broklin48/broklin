@@ -1,4 +1,4 @@
-#09Februari2023
+#01Maret2023
 
 #EXTM3U
 
@@ -39,8 +39,8 @@ rtp://@239.1.1.214:8010
 rtp://@239.1.1.3:7992
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_net_ver1.png" group-title="All Channel",112 Net TV HD
 rtp://@239.1.1.158:8922
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dramakorealbs_big.png" group-title="All Channel",113 Drama Korea LBS
-rtp://@239.1.2.101:9521
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dramakorealbs_big.png" group-title="All Channel",113 Drama Korea LBS
+#rtp://@239.1.2.101:9521
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kompastv_big.png" group-title="All Channel",114 Kompas TV HD
 rtp://@239.1.1.240:8017
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_beritasatu_big1.png" group-title="All Channel",115 BTV HD
@@ -509,8 +509,8 @@ rtp://@239.1.1.140:9515
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useeprime_ver1.png" group-title="Gen Entertainment",88 USee Prime HD
 rtp://@239.1.1.252:9486
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dramakorealbs_big.png" group-title="Gen Entertainment",113 Drama Korea LBS
-rtp://@239.1.2.101:9521
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dramakorealbs_big.png" group-title="Gen Entertainment",113 Drama Korea LBS
+#rtp://@239.1.2.101:9521
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tlc_ver1.png" group-title="Gen Entertainment",406 TLC HD
 rtp://@239.1.2.235:9342
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_hgtv_ver1.png" group-title="Gen Entertainment",500 HGTV HD
@@ -583,8 +583,8 @@ rtp://@239.1.2.239:9354
 rtp://@239.1.2.3:7992
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mshop_big.png" group-title="Lifestyle",110 Lejel Home Shopping
 rtp://@239.1.1.3:7992
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dramakorealbs_big.png" group-title="Lifestyle",113 Drama Korea LBS
-rtp://@239.1.2.101:9521
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dramakorealbs_big.png" group-title="Lifestyle",113 Drama Korea LBS
+#rtp://@239.1.2.101:9521
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_iberkah.png" group-title="Lifestyle",117 iBerkah
 rtp://@239.1.1.12:7984
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-atv-big1.png" group-title="Lifestyle",121 ATV
@@ -757,8 +757,8 @@ rtp://@239.1.1.17:8076
 rtp://@239.1.1.12:7984
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_net_big1.png"group-title="SD Channel",Net TV
 rtp://@239.1.1.119:8688
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_dramakorealbs_big.png"group-title="SD Channel",Drama Korea LBS
-rtp://@239.1.2.101:9521
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_dramakorealbs_big.png"group-title="SD Channel",Drama Korea LBS
+#rtp://@239.1.2.101:9521
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo-kompastv-big1.png"group-title="SD Channel",Kompas TV
 rtp://@239.1.1.197:9156
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_beritasatu_big1.png"group-title="SD Channel",BTV
