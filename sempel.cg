@@ -19,7 +19,6 @@ rtp://@239.1.1.222:9306
 rtp://@239.1.2.58:8324
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_antvnew_big.png" group-title="All Channel",108 ANTV HD
 rtp://@239.1.1.153:8627
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indosiar_ver1.png" group-title="All Channel",109 Indosiar HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeo_ver1.png" group-title="All Channel",201 National Geographic HD
 rtp://239.1.1.243:9432
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeowild_ver1.png" group-title="All Channel",202 Natgeo Wild HD
