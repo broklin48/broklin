@@ -1,4 +1,4 @@
-#01Maret2023
+#06Mei2023
 
 #EXTM3U
 
@@ -298,8 +298,8 @@ rtp://@239.1.1.213:9252
 rtp://@239.1.1.150:8874
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_muhammadiyahtv_big1.png" group-title="All Channel",856 tvMu
 rtp://@239.1.1.170:8994
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tawaftv_big.png" group-title="All Channel",858 Tawaf TV
-rtp://@239.1.2.236:9366
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tawaftvbaru_bigHD.png" group-title="All Channel",858 Tawaf TV HD
+rtp://@239.1.1.51:8415
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvmui_big1.png" group-title="All Channel",860 TV MUI
 rtp://@239.1.2.52:8286
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hope.png" group-title="All Channel",870 Hope
@@ -697,8 +697,8 @@ rtp://@239.1.1.213:9252
 rtp://@239.1.1.150:8874
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_muhammadiyahtv_big1.png" group-title="Religious",856 tvMu
 rtp://@239.1.1.170:8994
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tawaftv_big.png" group-title="Religious",858 Tawaf TV
-rtp://@239.1.2.236:9366
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tawaftvbaru_bigHD.png" group-title="Religious",858 Tawaf TV HD
+rtp://@239.1.1.51:8415
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvmui_big1.png" group-title="Religious",860 TV MUI
 rtp://@239.1.2.52:8286
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hope.png" group-title="Religious",870 Hope
@@ -1009,7 +1009,7 @@ rtp://@239.1.1.213:9252
 rtp://@239.1.1.150:8874
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_muhammadiyahtv_big1.png"group-title="SD Channel",tvMu
 rtp://@239.1.1.170:8994
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tawaftv_big.png"group-title="SD Channel",Tawaf TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tawaftvbaru_big.png"group-title="SD Channel",Tawaf TV
 rtp://@239.1.2.236:9366
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tvmui_big1.png"group-title="SD Channel",TV MUI
 rtp://@239.1.2.52:8286
