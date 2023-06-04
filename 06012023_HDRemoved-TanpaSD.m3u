@@ -1,4 +1,4 @@
-#01Maret2023
+#05Juni2023
 
 #EXTM3U
 
@@ -53,8 +53,8 @@ rtp://@239.1.1.12:7984
 rtp://@239.1.1.253:8018
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_idx_big.png" group-title="All Channel",119 IDX Channel
 rtp://@239.1.2.248:9398
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_daaitv_big1.png" group-title="All Channel",120 Daai TV
-rtp://@239.1.1.179:9048
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_daaitv_big1HD.png" group-title="All Channel",120 Daai TV HD
+rtp://@239.1.1.188:8015
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-atv-big1.png" group-title="All Channel",121 ATV
 rtp://@239.1.2.88:8308
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_balitv_big1.png" group-title="All Channel",122 Bali TV
@@ -67,7 +67,7 @@ rtp://@239.1.1.104:9511
 rtp://@239.1.1.10:9513
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvrikalteng_big1.png" group-title="All Channel",126 TVRI Kalimantan Tengah
 rtp://@239.1.1.126:8533
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nusantaratv_big.png" group-title="All Channel",128 Nusantara TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nusantaratv_bigHD.png" group-title="All Channel",128 Nusantara TV HD
 rtp://@239.1.2.102:9522
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_inews_big.png" group-title="All Channel",129 iNews HD
 rtp://@239.1.1.75:8624
@@ -115,7 +115,7 @@ rtp://@239.1.2.81:8083
 rtp://@239.1.1.163:8084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dreamworks_ver1.png" group-title="All Channel",310 Dream Work HD
 rtp://@239.1.1.234:9222
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_moonbug_big.png" group-title="All Channel",311 Moonbug Kids HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_moonbug_ver1HD.png" group-title="All Channel",311 Moonbug Kids HD
 rtp://@239.1.1.235:8593
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_duniaanak_big1.png" group-title="All Channel",312 Dunia Anak
 rtp://@239.1.1.7:8016
@@ -183,8 +183,8 @@ rtp://@239.1.1.202:9186
 rtp://@239.1.2.198:9386
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ctiasia_big.png" group-title="All Channel",526 CTI Asia
 rtp://@239.1.2.200:9168
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dunialain_big.png" group-title="All Channel",527 Dunia Lain
-rtp://@239.1.1.149:8868
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dunialain_bigHD.png" group-title="All Channel",527 Dunia Lain HD
+rtp://@239.1.2.148:8026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_abcaustralia_big.png" group-title="All Channel",531 ABC Australia HD
 rtp://@239.1.1.26:9519
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_arirang_big.png" group-title="All Channel",532 Arirang HD
@@ -298,8 +298,8 @@ rtp://@239.1.1.213:9252
 rtp://@239.1.1.150:8874
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_muhammadiyahtv_big1.png" group-title="All Channel",856 tvMu
 rtp://@239.1.1.170:8994
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tawaftv_big.png" group-title="All Channel",858 Tawaf TV
-rtp://@239.1.2.236:9366
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tawaftvbaru_bigHD.png" group-title="All Channel",858 Tawaf TV HD
+rtp://@239.1.1.51:8415
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvmui_big1.png" group-title="All Channel",860 TV MUI
 rtp://@239.1.2.52:8286
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hope.png" group-title="All Channel",870 Hope
@@ -361,8 +361,8 @@ rtp://@239.1.1.12:7984
 rtp://@239.1.1.253:8018
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_idx_big.png" group-title="Local Channel",119 IDX Channel
 rtp://@239.1.2.248:9398
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_daaitv_big1.png" group-title="Local Channel",120 Daai TV
-rtp://@239.1.1.179:9048
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_daaitv_big1HD.png" group-title="Local Channel",120 Daai TV HD
+rtp://@239.1.1.188:8015
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-atv-big1.png" group-title="Local Channel",121 ATV
 rtp://@239.1.2.88:8308
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_balitv_big1.png" group-title="Local Channel",122 Bali TV
@@ -375,7 +375,7 @@ rtp://@239.1.1.104:9511
 rtp://@239.1.1.10:9513
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvrikalteng_big1.png" group-title="Local Channel",126 TVRI Kalimantan Tengah
 rtp://@239.1.1.126:8533
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nusantaratv_big.png" group-title="Local Channel",128 Nusantara TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nusantaratv_bigHD.png" group-title="Local Channel",128 Nusantara TV HD
 rtp://@239.1.2.102:9522
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_inews_big.png" group-title="Local Channel",129 iNews HD
 rtp://@239.1.1.75:8624
@@ -491,7 +491,7 @@ rtp://@239.1.2.81:8083
 rtp://@239.1.1.163:8084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dreamworks_ver1.png" group-title="Kids",310 Dream Work HD
 rtp://@239.1.1.234:9222
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_moonbug_big.png" group-title="Kids",311 Moonbug Kids HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_moonbug_ver1HD.png" group-title="Kids",311 Moonbug Kids HD
 rtp://@239.1.1.235:8593
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_duniaanak_big1.png" group-title="Kids",312 Dunia Anak
 rtp://@239.1.1.7:8016
@@ -551,8 +551,8 @@ rtp://@239.1.1.202:9186
 rtp://@239.1.2.198:9386
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ctiasia_big.png" group-title="Gen Entertainment",526 CTI Asia
 rtp://@239.1.2.200:9168
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dunialain_big.png" group-title="Gen Entertainment",527 Dunia Lain
-rtp://@239.1.1.149:8868
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dunialain_bigHD.png" group-title="Gen Entertainment",527 Dunia Lain HD
+rtp://@239.1.2.148:8026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_abcaustralia_big.png" group-title="Gen Entertainment",531 ABC Australia HD
 rtp://@239.1.1.26:9519
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_arirang_big.png" group-title="Gen Entertainment",532 Arirang HD
@@ -697,8 +697,8 @@ rtp://@239.1.1.213:9252
 rtp://@239.1.1.150:8874
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_muhammadiyahtv_big1.png" group-title="Religious",856 tvMu
 rtp://@239.1.1.170:8994
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tawaftv_big.png" group-title="Religious",858 Tawaf TV
-rtp://@239.1.2.236:9366
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tawaftvbaru_bigHD.png" group-title="Religious",858 Tawaf TV HD
+rtp://@239.1.1.51:8415
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvmui_big1.png" group-title="Religious",860 TV MUI
 rtp://@239.1.2.52:8286
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hope.png" group-title="Religious",870 Hope
@@ -722,5 +722,3 @@ rtp://@239.1.2.206:9186
 
 ========================
 ========================
-
-####################################################
