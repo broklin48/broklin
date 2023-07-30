@@ -1,4 +1,4 @@
-#21Juli2023
+#30Juli2023
 
 #EXTM3U
 
@@ -81,8 +81,8 @@ rtp://@239.1.1.164:8965
 rtp://@239.1.1.146:7985
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnbcindonesia_ver1.png" group-title="All Channel",135 CNBC Indonesia HD
 rtp://@239.1.2.94:9448
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_rcti.png" group-title="All Channel",136 RCTI
-rtp://@239.1.2.11:9371
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_rcti.png" group-title="All Channel",136 RCTI
+#rtp://@239.1.2.11:9371
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_Jowo_channel_hd.png" group-title="All Channel", 137 Jowo HD
 rtp://@239.1.2.212:9208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_ver1.png" group-title="All Channel",200 Indonesiana TV HD
@@ -391,8 +391,8 @@ rtp://@239.1.1.164:8965
 rtp://@239.1.1.146:7985
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnbcindonesia_ver1.png" group-title="Local Channel",135 CNBC Indonesia HD
 rtp://@239.1.2.94:9448
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_rcti.png" group-title="All Channel",136 RCTI
-rtp://@239.1.2.11:9371
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_rcti.png" group-title="All Channel",136 RCTI
+#rtp://@239.1.2.11:9371
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_Jowo_channel_hd.png" group-title="Local Channel", 137 Jowo HD
 rtp://@239.1.2.212:9208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_ver1.png" group-title="Local Channel",200 Indonesiana TV HD
