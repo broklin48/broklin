@@ -1,4 +1,4 @@
-#28September2023
+#01Oktober2023
 
 #EXTM3U
 
@@ -11,6 +11,8 @@ rtp://@239.1.2.223:9268
 rtp://@239.1.2.203:9180
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useesports2_newlogo.png" group-title="All Channel",86 Usee Sports 2 HD
 rtp://@239.1.2.205:9186
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/MAXSTREAM-HD.png" group-title="All Channel",87 MAXstream HD
+rtp://@239.1.1.228:8165
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useeprime_ver1.png" group-title="All Channel",88 USee Prime HD
 rtp://@239.1.1.252:9486
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvri_big1.png" group-title="All Channel",99 TVRI HD
@@ -425,6 +427,8 @@ rtp://@239.1.2.201:9174
 ========================
 ========================
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/MAXSTREAM-HD.png" group-title="Movies",87 MAXstream HD
+rtp://@239.1.1.228:8165
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueantextreme_ver1.png" group-title="Movies",501 Rock Action HD
 rtp://@239.1.1.112:8646
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sone_big.png" group-title="Movies",537 One HD
