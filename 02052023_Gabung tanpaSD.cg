@@ -1,4 +1,4 @@
-#01Oktober2023
+#06Oktober2023-hapusNatGeo&Wild
 
 #EXTM3U
 
@@ -89,10 +89,10 @@ rtp://@239.1.2.94:9448
 rtp://@239.1.2.212:9208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_ver1.png" group-title="All Channel",200 Indonesiana TV HD
 rtp://@239.1.1.176:9197
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeo_ver1.png" group-title="All Channel",201 National Geographic HD
-rtp://239.1.1.243:9432
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeowild_ver1.png" group-title="All Channel",202 Natgeo Wild HD
-rtp://@239.1.1.207:9216
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeo_ver1.png" group-title="All Channel",201 National Geographic HD
+#rtp://239.1.1.243:9432
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeowild_ver1.png" group-title="All Channel",202 Natgeo Wild HD
+#rtp://@239.1.1.207:9216
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_crimeinvest_big.png" group-title="All Channel",203 Crime & Investigation HD
 rtp://@239.1.1.223:8012
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cgtndocumentary_big1.png" group-title="All Channel",204 CGTN Documentary HD
