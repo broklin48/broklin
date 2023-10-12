@@ -1,4 +1,4 @@
-#06Oktober2023-hapusNatGeo&Wild
+#12Oktober2023-hapus853-ganti88,314
 
 #EXTM3U
 
@@ -13,7 +13,7 @@ rtp://@239.1.2.203:9180
 rtp://@239.1.2.205:9186
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/MAXSTREAM-HD.png" group-title="All Channel",87 MAXstream HD
 rtp://@239.1.1.200:8164
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useeprime_ver1.png" group-title="All Channel",88 USee Prime HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/ALLPLAY-HD-OTT-88.png" group-title="All Channel",88 AllPlay Ent. HD
 rtp://@239.1.1.252:9486
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvri_big1.png" group-title="All Channel",99 TVRI HD
 rtp://@239.1.1.238:8016
@@ -125,7 +125,7 @@ rtp://@239.1.1.235:8593
 rtp://@239.1.1.7:8016
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mykids_big.png" group-title="All Channel",313 MY KIDZ HD
 rtp://@239.1.1.52:8416
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indikids_big.png" group-title="All Channel",314 indi kids HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/FUNPLANET-OTT-88HD.png" group-title="All Channel",314 Fun Planet HD
 rtp://@239.1.1.201:9180
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_horee_big.png" group-title="All Channel",315 Horee! HD
 rtp://@239.1.1.225:8013
@@ -294,8 +294,8 @@ rtp://@239.1.1.250:9518
 rtp://@239.1.1.185:9084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rodjatv_big1.png" group-title="All Channel",852 Rodja TV
 rtp://@239.1.1.224:9320
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mtatv_big1.png" group-title="All Channel",853 MT@ TV
-rtp://@239.1.2.234:9374
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mtatv_big1.png" group-title="All Channel",853 MT@ TV
+#rtp://@239.1.2.234:9374
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mqtv_big1.png" group-title="All Channel",854 MQTV
 rtp://@239.1.1.213:9252
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tv9_big1.png" group-title="All Channel",855 TV9
@@ -331,7 +331,7 @@ rtp://@239.1.1.101:8580
 rtp://@239.1.1.53:8292
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_seatoday_big.png"group-title="SD Channel",SEA Today
 rtp://@239.1.2.68:8384
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_useeprime_big1.png"group-title="SD Channel",USee Prime
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/ALLPLAY-OTT-88.png"group-title="SD Channel",AllPlay Ent.
 rtp://@239.1.1.216:9270
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tvri_big1.png"group-title="SD Channel",TVRI
 rtp://@239.1.1.37:8196
@@ -431,7 +431,7 @@ rtp://@239.1.1.139:8808
 rtp://@239.1.1.7:8016
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_mykids_big.png"group-title="SD Channel",MY KIDZ
 rtp://@239.1.1.47:8256
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_indikids_big.png"group-title="SD Channel",indi kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/FUNPLANET-OTT-88.png"group-title="SD Channel",indi kids
 rtp://@239.1.1.45:8244
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_horee_big.png"group-title="SD Channel",Horee!
 rtp://@239.1.1.68:8382
@@ -597,8 +597,8 @@ rtp://@239.1.2.84:8296
 rtp://@239.1.1.185:9084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_rodjatv_big1.png"group-title="SD Channel",Rodja TV
 rtp://@239.1.1.224:9320
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_mtatv_big1.png"group-title="SD Channel",MT@ TV
-rtp://@239.1.2.234:9374
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_mtatv_big1.png"group-title="SD Channel",MT@ TV
+#rtp://@239.1.2.234:9374
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_mqtv_big1.png"group-title="SD Channel",MQTV
 rtp://@239.1.1.213:9252
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tv9_big1.png"group-title="SD Channel",TV9
