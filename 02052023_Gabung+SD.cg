@@ -431,7 +431,7 @@ rtp://@239.1.1.139:8808
 rtp://@239.1.1.7:8016
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_mykids_big.png"group-title="SD Channel",MY KIDZ
 rtp://@239.1.1.47:8256
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/FUNPLANET-OTT-88.png"group-title="SD Channel",indi kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/FUNPLANET-OTT-88.png"group-title="SD Channel",Fun Planet
 rtp://@239.1.1.45:8244
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_horee_big.png"group-title="SD Channel",Horee!
 rtp://@239.1.1.68:8382
