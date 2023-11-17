@@ -613,9 +613,9 @@ rtp://@239.1.2.237:9348
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_ver1.png" group-title="Knowledge",200 Indonesiana TV HD
 rtp://@239.1.1.176:9197
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/CURIOSITYHD.png" group-title="All Channel",201 Curiosity HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/CURIOSITYHD.png" group-title="Knowledge",201 Curiosity HD
 rtp://239.1.1.124:8157
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/ANIMALPLANETHD.png" group-title="All Channel",202 Animal Planet HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/ANIMALPLANETHD.png" group-title="Knowledge",202 Animal Planet HD
 rtp://@239.1.1.110:8170
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_crimeinvest_big.png" group-title="Knowledge",203 Crime & Investigation HD
 rtp://@239.1.1.223:8012
@@ -631,9 +631,9 @@ rtp://@239.1.1.247:9440
 rtp://@239.1.1.131:8625
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-techstorm_big.png" group-title="Knowledge",209 TechStorm HD
 rtp://@239.1.2.229:9330
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/DISCOVERYASIAHD.png" group-title="All Channel",210 Discovery Asia HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/DISCOVERYASIAHD.png" group-title="Knowledge",210 Discovery Asia HD
 rtp://@239.1.1.118:8169
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/LOVENATUREHD.png" group-title="All Channel",211 Love Nature HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/LOVENATUREHD.png" group-title="Knowledge",211 Love Nature HD
 rtp://@239.1.1.148:8158
 
 ========================
