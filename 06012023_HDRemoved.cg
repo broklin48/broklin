@@ -1,9 +1,11 @@
-#06Desember2023-remove1-PGR
+#13Januari2024-SPOTVjadiChampion
 
 #EXTM3U
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/PGR-WARNA.png" group-title="All Channel",1 PGR LIVE
+rtp://@239.1.2.14:8058
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/useemozaik.png" group-title="All Channel",2 Mozaik Channel
 rtp://@239.1.2.223:9268
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useesport_newlogo.png" group-title="All Channel",85 USee Sports HD
@@ -262,9 +264,9 @@ rtp://@239.1.1.248:9494
 rtp://@239.1.1.249:9496
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fightsport_ver1.png" group-title="All Channel",704 Fight Sport HD
 rtp://@239.1.2.209:9196
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv_ver1.png" group-title="All Channel",705 SPOTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ1_HD.png" group-title="All Channel",705 CHAMPIONS TV1 HD
 rtp://@239.1.1.109:8623
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_ver1.png" group-title="All Channel",706 SPOTV 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ2_HD.png" group-title="All Channel",706 CHAMPIONS TV2 HD
 rtp://@239.1.1.196:9145
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nba_ver1.png" group-title="All Channel",708 NBA TV HD
 rtp://@239.1.2.210:9444
@@ -418,9 +420,9 @@ rtp://@239.1.1.248:9494
 rtp://@239.1.1.249:9496
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fightsport_ver1.png" group-title="Sports",704 Fight Sport HD
 rtp://@239.1.2.209:9196
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv_ver1.png" group-title="Sports",705 SPOTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ1_HD.png" group-title="Sports",705 CHAMPIONS TV1 HD
 rtp://@239.1.1.109:8623
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_ver1.png" group-title="Sports",706 SPOTV 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ2_HD.png" group-title="Sports",706 CHAMPIONS TV2 HD
 rtp://@239.1.1.196:9145
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nba_ver1.png" group-title="Sports",708 NBA TV HD
 rtp://@239.1.2.210:9444
@@ -638,6 +640,8 @@ rtp://@239.1.1.148:8158
 ========================
 ========================
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/PGR-WARNA.png" group-title="Music",1 PGR LIVE
+rtp://@239.1.2.14:8058
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mtvlive_ver1.png" group-title="Music",450 MTV Live HD
 rtp://@239.1.2.16:8070
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_musikindo_big.png" group-title="Music",451 Musik Indonesia HD
@@ -980,9 +984,9 @@ rtp://@239.1.1.217:9204
 rtp://@239.1.1.221:9300
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_fight_big1.png"group-title="SD Channel",Fight Sport
 rtp://@239.1.1.177:9036
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_spotv_big.png"group-title="SD Channel",SPOTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_champ1_big.png"group-title="SD Channel",CHAMPIONS TV1
 rtp://@239.1.1.132:8761
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_spotv2_big.png"group-title="SD Channel",SPOTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_champ2_big.png"group-title="SD Channel",CHAMPIONS TV2
 rtp://@239.1.1.198:9157
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_nba_big1.png"group-title="SD Channel",NBA TV
 rtp://@239.1.1.49:8268
