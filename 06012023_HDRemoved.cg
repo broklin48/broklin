@@ -4,8 +4,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/PGR-WARNA.png" group-title="All Channel",1 PGR LIVE
-rtp://@239.1.2.14:8058
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/useemozaik.png" group-title="All Channel",2 Mozaik Channel
 rtp://@239.1.2.223:9268
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useesport_newlogo.png" group-title="All Channel",85 USee Sports HD
@@ -640,8 +638,6 @@ rtp://@239.1.1.148:8158
 ========================
 ========================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/PGR-WARNA.png" group-title="Music",1 PGR LIVE
-rtp://@239.1.2.14:8058
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mtvlive_ver1.png" group-title="Music",450 MTV Live HD
 rtp://@239.1.2.16:8070
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_musikindo_big.png" group-title="Music",451 Musik Indonesia HD
