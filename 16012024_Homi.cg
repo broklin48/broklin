@@ -23,7 +23,7 @@ rtp://@239.1.2.70:8396
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnnindonesia_big1.png" group-title="All Channel",102 CNN Indonesia HD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-tvone-big1.png" group-title="All Channel",103 TV One
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/Stream(03)/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_transtv_ver2.png" group-title="All Channel",104 Trans TV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_trans7_ver1.png" group-title="All Channel",105 Trans 7 HD
@@ -33,7 +33,7 @@ rtp://@239.1.2.3:7992
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sctv_ver1.png" group-title="All Channel",107 SCTV HD
 rtp://@239.1.2.58:8324
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_antvnew_big.png" group-title="All Channel",108 ANTV HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/Stream(03)/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indosiar_ver1.png" group-title="All Channel",109 Indosiar HD
 rtp://@239.1.1.214:8010
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/lejelhome.png" group-title="All Channel",110 Lejel Home Shopping
@@ -343,7 +343,7 @@ rtp://@239.1.2.70:8396
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnnindonesia_big1.png" group-title="Local Channel",102 CNN Indonesia HD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-tvone-big1.png" group-title="Local Channel",103 TV One
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/Stream(03)/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_transtv_ver2.png" group-title="Local Channel",104 Trans TV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_trans7_ver1.png" group-title="Local Channel",105 Trans 7 HD
@@ -351,7 +351,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/Strea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sctv_ver1.png" group-title="Local Channel",107 SCTV HD
 rtp://@239.1.2.58:8324
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_antvnew_big.png" group-title="Local Channel",108 ANTV HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/Stream(03)/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indosiar_ver1.png" group-title="Local Channel",109 Indosiar HD
 rtp://@239.1.1.214:8010
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_net_ver1.png" group-title="Local Channel",112 Net TV HD
@@ -659,7 +659,7 @@ rtp://@239.1.2.70:8396
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnnindonesia_big1.png" group-title="News",102 CNN Indonesia HD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-tvone-big1.png" group-title="News",103 TV One
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/Stream(03)/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kompastv_big.png" group-title="News",114 Kompas TV HD
 rtp://@239.1.1.240:8017
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_beritasatu_big1.png" group-title="News",115 BTV HD
