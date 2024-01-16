@@ -1,4 +1,4 @@
-#13Januari2024-SPOTVjadiChampion
+#16Januari2024-gantiRTPChampions
 
 #EXTM3U
 
@@ -263,9 +263,9 @@ rtp://@239.1.1.249:9496
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fightsport_ver1.png" group-title="All Channel",704 Fight Sport HD
 rtp://@239.1.2.209:9196
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ1_HD.png" group-title="All Channel",705 CHAMPIONS TV1 HD
-rtp://@239.1.1.109:8623
+rtp://@239.1.2.32:8190
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ2_HD.png" group-title="All Channel",706 CHAMPIONS TV2 HD
-rtp://@239.1.1.196:9145
+rtp://@239.1.2.35:8181
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nba_ver1.png" group-title="All Channel",708 NBA TV HD
 rtp://@239.1.2.210:9444
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_horizonsport_ver1.png" group-title="All Channel",714 Horizon Sports HD
@@ -419,9 +419,9 @@ rtp://@239.1.1.249:9496
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fightsport_ver1.png" group-title="Sports",704 Fight Sport HD
 rtp://@239.1.2.209:9196
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ1_HD.png" group-title="Sports",705 CHAMPIONS TV1 HD
-rtp://@239.1.1.109:8623
+rtp://@239.1.2.32:8190
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ2_HD.png" group-title="Sports",706 CHAMPIONS TV2 HD
-rtp://@239.1.1.196:9145
+rtp://@239.1.2.35:8181
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nba_ver1.png" group-title="Sports",708 NBA TV HD
 rtp://@239.1.2.210:9444
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_horizonsport_ver1.png" group-title="Sports",714 Horizon Sports HD
@@ -980,10 +980,10 @@ rtp://@239.1.1.217:9204
 rtp://@239.1.1.221:9300
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_fight_big1.png"group-title="SD Channel",Fight Sport
 rtp://@239.1.1.177:9036
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_champ1_big.png"group-title="SD Channel",CHAMPIONS TV1
-rtp://@239.1.1.132:8761
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_champ2_big.png"group-title="SD Channel",CHAMPIONS TV2
-rtp://@239.1.1.198:9157
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_champ1_big.png"group-title="SD Channel",CHAMPIONS TV1
+#rtp://@239.1.1.132:8761
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_champ2_big.png"group-title="SD Channel",CHAMPIONS TV2
+#rtp://@239.1.1.198:9157
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_nba_big1.png"group-title="SD Channel",NBA TV
 rtp://@239.1.1.49:8268
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_horizonsport_ver1.png"group-title="SD Channel",Horizon Sports
