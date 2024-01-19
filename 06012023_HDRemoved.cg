@@ -1,4 +1,4 @@
-#16Januari2024-gantiRTPChampions
+#19Januari2024-penambahanIDTV-117
 
 #EXTM3U
 
@@ -48,8 +48,8 @@ rtp://@239.1.1.240:8017
 rtp://@239.1.1.114:9512
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_jaktv_big1.png" group-title="All Channel",116 Jak TV
 rtp://@239.1.1.107:8616
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_iberkah.png" group-title="All Channel",117 iBerkah
-#rtp://@239.1.1.12:7984
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_idtv.png" group-title="All Channel",117 IDTVHD
+rtp://@239.1.2.5:8168
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rtv_ver1.png" group-title="All Channel",118 RTV HD
 rtp://@239.1.1.253:8018
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_idx_big.png" group-title="All Channel",119 IDX Channel
@@ -362,8 +362,8 @@ rtp://@239.1.1.240:8017
 rtp://@239.1.1.114:9512
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_jaktv_big1.png" group-title="Local Channel",116 Jak TV
 rtp://@239.1.1.107:8616
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_iberkah.png" group-title="Local Channel",117 iBerkah
-#rtp://@239.1.1.12:7984
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_idtv.png" group-title="Local Channel",117 IDTVHD
+rtp://@239.1.2.5:8168
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rtv_ver1.png" group-title="Local Channel",118 RTV HD
 rtp://@239.1.1.253:8018
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_idx_big.png" group-title="Local Channel",119 IDX Channel
@@ -664,6 +664,8 @@ rtp://@239.1.1.31:8160
 rtp://@239.1.1.240:8017
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_beritasatu_big1.png" group-title="News",115 BTV HD
 rtp://@239.1.1.114:9512
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_idtv.png" group-title="News",117 IDTVHD
+rtp://@239.1.2.5:8168
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_idx_big.png" group-title="News",119 IDX Channel
 rtp://@239.1.2.248:9398
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_antara_big1.png" group-title="News",124 Antara HD
