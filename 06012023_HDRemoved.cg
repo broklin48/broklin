@@ -1,4 +1,4 @@
-#27Januari2024-GarudaTV-out
+#03Februari2024-JawaPosTV
 
 #EXTM3U
 
@@ -76,6 +76,8 @@ rtp://@239.1.1.75:8624
 rtp://@239.1.1.130:9514
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_gprtv_big1.png" group-title="All Channel",131 GPR TV
 #rtp://@239.1.2.17:9379
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/JAWAPOSTV-88-HD.png" group-title="All Channel",132 JawaPos TV HD
+rtp://@239.1.2.37:8183
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_garudatv_big.png" group-title="All Channel",133 Garuda TV
 #rtp://@239.1.1.164:8965
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/SINDONEWSTV.png" group-title="All Channel",134 SINDO News TV
@@ -390,6 +392,8 @@ rtp://@239.1.1.75:8624
 rtp://@239.1.1.130:9514
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_gprtv_big1.png" group-title="Local Channel",131 GPR TV
 #rtp://@239.1.2.17:9379
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/JAWAPOSTV-88-HD.png" group-title="Local Channel",132 JawaPos TV HD
+rtp://@239.1.2.37:8183
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_garudatv_big.png" group-title="Local Channel",133 Garuda TV
 #rtp://@239.1.1.164:8965
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/SINDONEWSTV.png" group-title="Local Channel",134 SINDO News TV
