@@ -1,4 +1,4 @@
-#03Februari2024-JawaPosTV
+#15Februari2024-NewTV
 
 #EXTM3U
 
@@ -188,10 +188,10 @@ rtp://@239.1.2.104:9526
 rtp://@239.1.1.174:9018
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kplus_ver1.png" group-title="All Channel",523 K+ HD
 rtp://@239.1.1.202:9186
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_formosa_big.png" group-title="All Channel",524 Formosa 
-rtp://@239.1.2.198:9386
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ctiasia_big.png" group-title="All Channel",526 CTI Asia
-rtp://@239.1.2.200:9168
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/NewTV_Comprehensive.png" group-title="All Channel",524 NEW TV COMPREHENSIVE HD 
+rtp://@239.1.2.24:8174
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/NewTV_Finance.png" group-title="All Channel",526 NEW TV FINANCE
+rtp://@239.1.2.28:8176
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dunialain_bigHD.png" group-title="All Channel",527 Dunia Lain HD
 rtp://@239.1.2.148:8026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_abcaustralia_big.png" group-title="All Channel",531 ABC Australia HD
@@ -212,9 +212,9 @@ rtp://@239.1.2.21:8100
 rtp://@239.1.1.154:8898
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_shenzen_big.png" group-title="All Channel",539 Shenzen International
 rtp://@239.1.1.156:8910
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ebcasia_big.png" group-title="All Channel",540 EBC Asia
-rtp://@239.1.2.196:9406
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kungfutv_big.png" group-title="All Channel",541 NewTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/NewTV_Variety.png" group-title="All Channel",540 NEW TV VARIETY
+rtp://@239.1.2.30:8178
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kungfutv_big.png" group-title="All Channel",541 Kungfu TV
 rtp://@239.1.2.40:8206
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_chinesedrama_big.png" group-title="All Channel",542 Chinese Drama
 rtp://@239.1.2.10:8306
@@ -240,7 +240,7 @@ rtp://@239.1.1.232:8014
 rtp://@239.1.2.225:9318
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvnmovies_ver1.png" group-title="All Channel",613 TVN Movies HD
 rtp://@239.1.2.72:8408
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_zbioskop_big1.png" group-title="All Channel",614 Zee Bioskop
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_zbioskop_ver1.png" group-title="All Channel",614 Zee Bioskop
 rtp://@239.1.1.129:8748
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinemaworld.png" group-title="All Channel",615 Cinema World HD
 rtp://@239.1.2.80:8578
@@ -462,7 +462,7 @@ rtp://@239.1.1.232:8014
 rtp://@239.1.2.225:9318
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvnmovies_ver1.png" group-title="Movies",613 TVN Movies HD
 rtp://@239.1.2.72:8408
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_zbioskop_big1.png" group-title="Movies",614 Zee Bioskop
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_zbioskop_ver1.png" group-title="Movies",614 Zee Bioskop
 rtp://@239.1.1.129:8748
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinemaworld.png" group-title="Movies",615 Cinema World HD
 rtp://@239.1.2.80:8578
@@ -562,10 +562,10 @@ rtp://@239.1.2.104:9526
 rtp://@239.1.1.174:9018
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kplus_ver1.png" group-title="Gen Entertainment",523 K+ HD
 rtp://@239.1.1.202:9186
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_formosa_big.png" group-title="Gen Entertainment",524 Formosa 
-rtp://@239.1.2.198:9386
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ctiasia_big.png" group-title="Gen Entertainment",526 CTI Asia
-rtp://@239.1.2.200:9168
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/NewTV_Comprehensive.png" group-title="Gen Entertainment",524 NEW TV COMPREHENSIVE HD 
+rtp://@239.1.2.24:8174
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/NewTV_Finance.png" group-title="Gen Entertainment",526 NEW TV FINANCE
+rtp://@239.1.2.28:8176
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dunialain_bigHD.png" group-title="Gen Entertainment",527 Dunia Lain HD
 rtp://@239.1.2.148:8026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_abcaustralia_big.png" group-title="Gen Entertainment",531 ABC Australia HD
@@ -582,9 +582,9 @@ rtp://@239.1.2.18:8082
 rtp://@239.1.1.154:8898
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_shenzen_big.png" group-title="Gen Entertainment",539 Shenzen International
 rtp://@239.1.1.156:8910
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ebcasia_big.png" group-title="Gen Entertainment",540 EBC Asia
-rtp://@239.1.2.196:9406
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kungfutv_big.png" group-title="Gen Entertainment",541 NewTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/NewTV_Variety.png" group-title="All Channel",540 NEW TV VARIETY
+rtp://@239.1.2.30:8178
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kungfutv_big.png" group-title="Gen Entertainment",541 Kungfu TV
 rtp://@239.1.2.40:8206
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_chinesedrama_big.png" group-title="Gen Entertainment",542 Chinese Drama
 rtp://@239.1.2.10:8306
@@ -962,7 +962,7 @@ rtp://@239.1.1.97:8556
 rtp://@239.1.1.161:8940
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_tvnmovies_ver1.png"group-title="SD Channel",TVN Movie
 rtp://@239.1.1.61:8340
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/logo_zbioskop_big1.png"group-title="SD Channel",Z Bioskop
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_zbioskop_ver1.png"group-title="SD Channel",Zee Bioskop
 rtp://@239.1.1.129:8748
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo2/cinemaworld.png"group-title="SD Channel",Cinema World
 rtp://@239.1.1.189:9108
