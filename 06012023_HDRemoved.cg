@@ -582,7 +582,7 @@ rtp://@239.1.2.18:8082
 rtp://@239.1.1.154:8898
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_shenzen_big.png" group-title="Gen Entertainment",539 Shenzen International
 rtp://@239.1.1.156:8910
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/NewTV_Variety.png" group-title="All Channel",540 NEW TV VARIETY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/NewTV_Variety.png" group-title="Gen Entertainment",540 NEW TV VARIETY
 rtp://@239.1.2.30:8178
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kungfutv_big.png" group-title="Gen Entertainment",541 Kungfu TV
 rtp://@239.1.2.40:8206
