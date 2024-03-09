@@ -8,7 +8,7 @@
 rtp://@239.1.2.223:9268
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv_ver1.png" group-title="All Channel",85 SPOTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_ver1.png" group-title="All Channel",85 SPOTV 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_ver1.png" group-title="All Channel",86 SPOTV 2 HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/MAXSTREAM-HD.png" group-title="All Channel",87 MAXstream
 rtp://@239.1.1.200:8164
@@ -420,7 +420,7 @@ rtp://@239.1.1.113:8652
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv_ver1.png" group-title="Sports",85 SPOTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_ver1.png" group-title="Sports",85 SPOTV 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_ver1.png" group-title="Sports",86 SPOTV 2 HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bein1_ver1.png" group-title="Sports",701 Bein 1
 rtp://@239.1.1.248:9494
