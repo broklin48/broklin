@@ -1,4 +1,4 @@
-#15Februari2024-NewTV-RemoveHDWord
+#09Maret2024-Champions5&6-VoliTV
 
 #EXTM3U
 
@@ -6,10 +6,10 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/useemozaik.png" group-title="All Channel",2 Mozaik Channel
 rtp://@239.1.2.223:9268
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useesport_newlogo.png" group-title="All Channel",85 USee Sports
-rtp://@239.1.2.203:9180
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useesports2_newlogo.png" group-title="All Channel",86 Usee Sports 2
-rtp://@239.1.2.205:9186
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv_ver1.png" group-title="All Channel",85 SPOTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_ver1.png" group-title="All Channel",85 SPOTV 2 HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/MAXSTREAM-HD.png" group-title="All Channel",87 MAXstream
 rtp://@239.1.1.200:8164
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/ALLPLAY-HD-OTT-88.png" group-title="All Channel",88 AllPlay Ent.
@@ -268,8 +268,14 @@ rtp://@239.1.2.209:9196
 rtp://@239.1.2.32:8190
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ2_HD.png" group-title="All Channel",706 CHAMPIONS TV2
 rtp://@239.1.2.35:8181
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ5_HD.png" group-title="All Channel",707 CHAMPIONS TV5
+rtp://@239.1.2.45:8193
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ6_HD.png" group-title="All Channel",708 CHAMPIONS TV6
+rtp://@239.1.2.47:8195
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nba_ver1.png" group-title="All Channel",708 NBA TV
 rtp://@239.1.2.210:9444
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/volitv.png" group-title="All Channel",710 Voli TV
+rtp://@239.1.2.43:8189
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_horizonsport_ver1.png" group-title="All Channel",714 Horizon Sports
 rtp://@239.1.2.201:9174
 ==kuncoro
@@ -412,10 +418,10 @@ rtp://@239.1.1.113:8652
 ========================
 ========================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useesport_newlogo.png" group-title="Sports",85 USee Sports
-rtp://@239.1.2.203:9180
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_useesports2_newlogo.png" group-title="Sports",86 Usee Sports 2
-rtp://@239.1.2.205:9186
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv_ver1.png" group-title="Sports",85 SPOTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_ver1.png" group-title="Sports",85 SPOTV 2 HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bein1_ver1.png" group-title="Sports",701 Bein 1
 rtp://@239.1.1.248:9494
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bein2_ver1.png" group-title="Sports",702 Bein 3
@@ -426,8 +432,14 @@ rtp://@239.1.2.209:9196
 rtp://@239.1.2.32:8190
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ2_HD.png" group-title="Sports",706 CHAMPIONS TV2
 rtp://@239.1.2.35:8181
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ5_HD.png" group-title="Sportsl",707 CHAMPIONS TV5
+rtp://@239.1.2.45:8193
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ6_HD.png" group-title="Sports",708 CHAMPIONS TV6
+rtp://@239.1.2.47:8195
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nba_ver1.png" group-title="Sports",708 NBA TV
 rtp://@239.1.2.210:9444
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/volitv.png" group-title="Sports",710 Voli TV
+rtp://@239.1.2.43:8189
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_horizonsport_ver1.png" group-title="Sports",714 Horizon Sports
 rtp://@239.1.2.201:9174
 
