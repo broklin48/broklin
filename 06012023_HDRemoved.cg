@@ -432,7 +432,7 @@ rtp://@239.1.2.209:9196
 rtp://@239.1.2.32:8190
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ2_HD.png" group-title="Sports",706 CHAMPIONS TV2
 rtp://@239.1.2.35:8181
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ5_HD.png" group-title="Sportsl",707 CHAMPIONS TV5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ5_HD.png" group-title="Sports",707 CHAMPIONS TV5
 rtp://@239.1.2.45:8193
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_champ6_HD.png" group-title="Sports",708 CHAMPIONS TV6
 rtp://@239.1.2.47:8195
