@@ -218,8 +218,8 @@ rtp://@239.1.2.30:8178
 rtp://@239.1.2.40:8206
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_chinesedrama_big.png" group-title="All Channel",542 Chinese Drama
 rtp://@239.1.2.10:8306
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_paramount_ver1.png" group-title="All Channel",600 Paramount
-rtp://@239.1.1.211:9240
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_paramount_ver1.png" group-title="All Channel",600 Paramount
+#rtp://@239.1.1.211:9240
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/hbo.png" group-title="All Channel",601 HBO
 rtp://@239.1.1.203:9192
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/hbosignature.png" group-title="All Channel",602 HBO Signature
@@ -452,8 +452,8 @@ rtp://@239.1.1.200:8164
 rtp://@239.1.1.112:8646
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_sone_big.png" group-title="Movies",537 One
 rtp://@239.1.2.21:8100
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_paramount_ver1.png" group-title="Movies",600 Paramount
-rtp://@239.1.1.211:9240
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_paramount_ver1.png" group-title="Movies",600 Paramount
+#rtp://@239.1.1.211:9240
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/hbo.png" group-title="Movies",601 HBO
 rtp://@239.1.1.203:9192
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/hbosignature.png" group-title="Movies",602 HBO Signature
@@ -952,8 +952,8 @@ rtp://@239.1.2.196:9406
 rtp://@239.1.2.40:8206
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_chinesedrama_big.png"group-title="SD Channel",Chinese Drama
 rtp://@239.1.2.10:8306
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_paramount_ver1.png"group-title="SD Channel",Paramount
-rtp://@239.1.1.11:8040
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_paramount_ver1.png"group-title="SD Channel",Paramount
+#rtp://@239.1.1.11:8040
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/hbo.png"group-title="SD Channel",HBO
 rtp://@239.1.1.95:8544
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/hbosignature.png"group-title="SD Channel",HBO Signature
