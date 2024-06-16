@@ -5,11 +5,19 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_metrotv_ver1.png" group-title="All Channel",100 Metro TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_metrotv_ver1.png" group-title="All Channel",100 Metro TV
 rtp://@239.1.2.2:7986
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_trans7_ver1.png" group-title="All Channel",105 Trans 7 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_trans7_ver1.png" group-title="All Channel",105 Trans 7
 rtp://@239.1.1.222:9306
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/LOVENATUREHD.png" group-title="All Channel",211 Love Nature HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/LOVENATUREHD.png" group-title="All Channel",211 Love Nature
 rtp://@239.1.1.148:8158
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_sone_big.png" group-title="All Channel",537 One HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_sone_big.png" group-title="All Channel",537 One
 rtp://@239.1.2.21:8100
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_seru_big.png" group-title="All Channel",504 Seru!
+rtp://@239.1.1.111:8624
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_lifetime_big.png" group-title="All Channel",505 Lifetime
+rtp://@239.1.1.25:8124
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_kix_ver1.png" group-title="All Channel",506 KIX
+rtp://@239.1.2.207:9190
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_hits_ver1.png" group-title="All Channel",507 Hits
+rtp://@239.1.1.209:9228
