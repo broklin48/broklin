@@ -1,4 +1,11 @@
-#03Juli2024-GantiBeinKeSPOTV
+#13Juli2024
+
+###################################################################################
+#####206 panda tv hilang, tapi rtp masih hidup#####################################
+#####541 kungfu tv jadi phoenix chinese, rtp kungfu tv masih hidup jadi 543########
+#####711 w-sport channel baru######################################################
+#####810 trt jadi phoenix infonews, rtp trt masih hidup jadi 811###################
+###################################################################################
 
 #EXTM3U
 
@@ -38,6 +45,8 @@ rtp://@239.1.1.214:8010
 rtp://@239.1.1.158:8922
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_dramakorealbs_big.png" group-title="All Channel",113 Drama Korea LBS
 #rtp://@239.1.2.101:9521
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_indonesiana_ver1.png" group-title="All Channel",113 Indonesiana TV
+rtp://@239.1.1.176:9197
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_kompastv_big.png" group-title="All Channel",114 Kompas TV
 rtp://@239.1.1.240:8017
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_beritasatu_big1.png" group-title="All Channel",115 BTV
@@ -84,8 +93,6 @@ rtp://@239.1.2.94:9448
 #rtp://@239.1.2.11:9371
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_Jowo_channel_hd.png" group-title="All Channel", 137 Jowo
 rtp://@239.1.2.212:9208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_indonesiana_ver1.png" group-title="All Channel",200 Indonesiana TV
-rtp://@239.1.1.176:9197
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/CURIOSITYHD.png" group-title="All Channel",201 Curiosity
 rtp://239.1.1.124:8157
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/ANIMALPLANETHD.png" group-title="All Channel",202 Animal Planet
@@ -210,10 +217,12 @@ rtp://@239.1.1.154:8898
 rtp://@239.1.1.156:8910
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/NewTV_Variety.png" group-title="All Channel",540 NEW TV VARIETY
 rtp://@239.1.2.30:8178
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_kungfutv_big.png" group-title="All Channel",541 Kungfu TV
-rtp://@239.1.2.40:8206
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/phoenix_chineseHD.png" group-title="All Channel",541 Phoenix Chinese
+rtp://@239.1.2.57:8210
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_chinesedrama_big.png" group-title="All Channel",542 Chinese Drama
 rtp://@239.1.2.10:8306
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_kungfutv_big.png" group-title="All Channel",543 Kungfu TV
+rtp://@239.1.2.40:8206
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_paramount_ver1.png" group-title="All Channel",600 Paramount
 #rtp://@239.1.1.211:9240
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/hbo.png" group-title="All Channel",601 HBO
@@ -272,6 +281,8 @@ rtp://@239.1.2.47:8195
 rtp://@239.1.2.210:9444
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/volitv.png" group-title="All Channel",710 Voli TV
 rtp://@239.1.2.43:8189
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/w-sport.png" group-title="All Channel",711 WSport
+rtp://@239.1.2.61:8207
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_horizonsport_ver1.png" group-title="All Channel",714 Horizon Sports
 rtp://@239.1.2.201:9174
 ==kuncoro
@@ -295,20 +306,22 @@ rtp://@239.1.2.239:9354
 rtp://@239.1.2.243:9360
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tvbsnews_big.png" group-title="All Channel",809 TVBS News
 rtp://@239.1.1.48:8414
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_trtworld_small.png" group-title="All Channel",810 TRT World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/phoenix_infonewsHD.png" group-title="All Channel",810 Phoenix InfoNews
+rtp://@239.1.2.55:8212
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_trtworld_small.png" group-title="All Channel",811 TRT World
 rtp://@239.1.1.250:9518
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_alquran_big1.png" group-title="All Channel",850 AlQuran Karim
 rtp://@239.1.1.185:9084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_rodjatv_big1.png" group-title="All Channel",852 Rodja TV
 rtp://@239.1.1.224:9320
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_mtatv_big1.png" group-title="All Channel",853 MT@ TV
-#rtp://@239.1.2.234:9374
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_mqtv_big1.png" group-title="All Channel",854 MQTV
 rtp://@239.1.1.213:9252
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tv9_big1.png" group-title="All Channel",855 TV9
 rtp://@239.1.1.150:8874
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_muhammadiyahtv_big1.png" group-title="All Channel",856 tvMu
 rtp://@239.1.1.170:8994
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_mtatv_hd.png" group-title="All Channel",857 MTA TV
+rtp://@239.1.2.39:8186
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tawaftvbaru_bigHD.png" group-title="All Channel",858 Tawaf TV
 rtp://@239.1.1.51:8415
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tvmui_big1.png" group-title="All Channel",860 TV MUI
@@ -360,6 +373,8 @@ rtp://@239.1.1.153:8627
 rtp://@239.1.1.214:8010
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_net_ver1.png" group-title="Local Channel",112 Net TV
 rtp://@239.1.1.158:8922
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_indonesiana_ver1.png" group-title="Local Channel",113 Indonesiana TV
+rtp://@239.1.1.176:9197
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_kompastv_big.png" group-title="Local Channel",114 Kompas TV
 rtp://@239.1.1.240:8017
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_beritasatu_big1.png" group-title="Local Channel",115 BTV
@@ -406,8 +421,6 @@ rtp://@239.1.2.94:9448
 #rtp://@239.1.2.11:9371
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_Jowo_channel_hd.png" group-title="Local Channel", 137 Jowo
 rtp://@239.1.2.212:9208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_indonesiana_ver1.png" group-title="Local Channel",200 Indonesiana TV
-rtp://@239.1.1.176:9197
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_insert_big1.png" group-title="Local Channel",503 Insert
 rtp://@239.1.1.113:8652
 
@@ -432,6 +445,8 @@ rtp://@239.1.2.47:8195
 rtp://@239.1.2.210:9444
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/volitv.png" group-title="Sports",710 Voli TV
 rtp://@239.1.2.43:8189
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/w-sport.png" group-title="Sports",711 WSport
+rtp://@239.1.2.61:8207
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_horizonsport_ver1.png" group-title="Sports",714 Horizon Sports
 rtp://@239.1.2.201:9174
 
@@ -588,12 +603,14 @@ rtp://@239.1.1.154:8898
 rtp://@239.1.1.156:8910
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/NewTV_Variety.png" group-title="Gen Entertainment",540 NEW TV VARIETY
 rtp://@239.1.2.30:8178
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_kungfutv_big.png" group-title="Gen Entertainment",541 Kungfu TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_kungfutv_big.png" group-title="Gen Entertainment",543 Kungfu TV
 rtp://@239.1.2.40:8206
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_chinesedrama_big.png" group-title="Gen Entertainment",542 Chinese Drama
 rtp://@239.1.2.10:8306
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_nhkworld_big.png" group-title="Gen Entertainment",807 NHK World Japan
 rtp://@239.1.2.239:9354
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/phoenix_infonewsHD.png" group-title="Gen Entertainment",810 Phoenix InfoNews
+rtp://@239.1.2.55:8212
 
 ========================
 ========================
@@ -618,7 +635,7 @@ rtp://@239.1.2.237:9348
 ========================
 ========================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_indonesiana_ver1.png" group-title="Knowledge",200 Indonesiana TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_indonesiana_ver1.png" group-title="Knowledge",113 Indonesiana TV
 rtp://@239.1.1.176:9197
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/CURIOSITYHD.png" group-title="Knowledge",201 Curiosity
 rtp://239.1.1.124:8157
@@ -642,6 +659,8 @@ rtp://@239.1.2.229:9330
 rtp://@239.1.1.118:8169
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/LOVENATUREHD.png" group-title="Knowledge",211 Love Nature
 rtp://@239.1.1.148:8158
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/phoenix_chineseHD.png" group-title="Knowledge",541 Phoenix Chinese
+rtp://@239.1.2.57:8210
 
 ========================
 ========================
@@ -704,7 +723,7 @@ rtp://@239.1.2.22:8106
 rtp://@239.1.2.243:9360
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tvbsnews_big.png" group-title="News",809 TVBS News
 rtp://@239.1.1.48:8414
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_trtworld_small.png" group-title="News",810 TRT World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_trtworld_small.png" group-title="News",811 TRT World
 rtp://@239.1.1.250:9518
 
 ========================
@@ -714,14 +733,14 @@ rtp://@239.1.1.250:9518
 rtp://@239.1.1.185:9084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_rodjatv_big1.png" group-title="Religious",852 Rodja TV
 rtp://@239.1.1.224:9320
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_mtatv_big1.png" group-title="Religious",853 MT@ TV
-#rtp://@239.1.2.234:9374
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_mqtv_big1.png" group-title="Religious",854 MQTV
 rtp://@239.1.1.213:9252
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tv9_big1.png" group-title="Religious",855 TV9
 rtp://@239.1.1.150:8874
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_muhammadiyahtv_big1.png" group-title="Religious",856 tvMu
 rtp://@239.1.1.170:8994
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_mtatv_hd.png" group-title="Religious",857 MTA TV
+rtp://@239.1.2.39:8186
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tawaftvbaru_bigHD.png" group-title="Religious",858 Tawaf TV
 rtp://@239.1.1.51:8415
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tvmui_big1.png" group-title="Religious",860 TV MUI
@@ -1024,7 +1043,7 @@ rtp://@239.1.2.84:8296
 rtp://@239.1.1.185:9084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_rodjatv_big1.png"group-title="SD Channel",Rodja TV
 rtp://@239.1.1.224:9320
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_mtatv_big1.png"group-title="SD Channel",MT@ TV
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_mtatv_big1.png"group-title="SD Channel",MTA TV
 #rtp://@239.1.2.234:9374
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_mqtv_big1.png"group-title="SD Channel",MQTV
 rtp://@239.1.1.213:9252
