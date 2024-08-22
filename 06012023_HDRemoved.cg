@@ -1,3 +1,7 @@
+#22Agus24
+###################################################################################
+#####Studio Universal, in##########################################################
+###################################################################################
 #01Agus24
 ###################################################################################
 #####Gem out#######################################################################
@@ -225,8 +229,8 @@ rtp://@239.1.2.57:8210
 rtp://@239.1.2.10:8306
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_kungfutv_big.png" group-title="All Channel",543 Kungfu TV
 rtp://@239.1.2.40:8206
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_paramount_ver1.png" group-title="All Channel",600 Paramount
-#rtp://@239.1.1.211:9240
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/StudioUniversal.png" group-title="All Channel",600 Studio Universal
+rtp://@239.1.2.67:8221
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/hbo.png" group-title="All Channel",601 HBO
 rtp://@239.1.1.203:9192
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/hbosignature.png" group-title="All Channel",602 HBO Signature
@@ -453,8 +457,8 @@ rtp://@239.1.1.200:8164
 rtp://@239.1.1.112:8646
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_sone_big.png" group-title="Movies",537 One
 rtp://@239.1.2.21:8100
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_paramount_ver1.png" group-title="Movies",600 Paramount
-#rtp://@239.1.1.211:9240
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/StudioUniversal.png" group-title="Movies",600 Studio Universal
+rtp://@239.1.2.67:8221
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/hbo.png" group-title="Movies",601 HBO
 rtp://@239.1.1.203:9192
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/hbosignature.png" group-title="Movies",602 HBO Signature
