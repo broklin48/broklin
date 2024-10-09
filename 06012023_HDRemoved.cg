@@ -1,11 +1,13 @@
+#01Okt24
+###################################################################################
+#####My Cinema, out################################################################
+#####My Cinema Asia, out###########################################################
+#####My Family Channel, out########################################################
+###################################################################################
 #07Sept24
 ###################################################################################
 #####MolaSports, in################################################################
 #####MolaGolf, in##################################################################
-###################################################################################
-#22Agus24
-###################################################################################
-#####Studio Universal, in##########################################################
 ###################################################################################
 
 #EXTM3U
@@ -240,16 +242,16 @@ rtp://@239.1.1.190:9116
 rtp://@239.1.1.83:8472
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_celestialmovie_big.png" group-title="All Channel",611 Celestial Movies
 rtp://@239.1.1.232:8014
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_mycinema_ver1.png" group-title="All Channel",612 My Cinema
-rtp://@239.1.2.225:9318
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_mycinema_ver1.png" group-title="All Channel",612 My Cinema
+#rtp://@239.1.2.225:9318
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tvnmovies_ver1.png" group-title="All Channel",613 TVN Movies
 rtp://@239.1.2.72:8408
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_zbioskop_ver1.png" group-title="All Channel",614 Zee Bioskop
 rtp://@239.1.1.129:8748
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/cinemaworld.png" group-title="All Channel",615 Cinema World
 rtp://@239.1.2.80:8578
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_myfamily_ver1.png" group-title="All Channel",616 My Family Channel
-rtp://@239.1.1.237:9396
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_myfamily_ver1.png" group-title="All Channel",616 My Family Channel
+#rtp://@239.1.1.237:9396
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_galaxy_big1.png" group-title="All Channel",617 Galaxy
 rtp://@239.1.1.136:8790
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_bioskopindonesia_big1.png" group-title="All Channel",618 Bioskop Indonesia
@@ -260,8 +262,8 @@ rtp://@239.1.1.239:9276
 rtp://@239.1.1.145:8844
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_galaxypremium_big.png" group-title="All Channel",621 Galaxy Prenium
 rtp://@239.1.2.100:9518
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_new-mycinemaasia_big.png" group-title="All Channel",624 My Cinema Asia
-rtp://@239.1.1.231:8062
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_new-mycinemaasia_big.png" group-title="All Channel",624 My Cinema Asia
+#rtp://@239.1.1.231:8062
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_spotv_ver1.png" group-title="All Channel",701 SPOTV
 rtp://@239.1.1.248:9494
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_spotv2_ver1.png" group-title="All Channel",702 SPOTV 2
@@ -476,16 +478,16 @@ rtp://@239.1.1.190:9116
 rtp://@239.1.1.83:8472
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_celestialmovie_big.png" group-title="Movies",611 Celestial Movies
 rtp://@239.1.1.232:8014
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_mycinema_ver1.png" group-title="Movies",612 My Cinema
-rtp://@239.1.2.225:9318
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_mycinema_ver1.png" group-title="Movies",612 My Cinema
+#rtp://@239.1.2.225:9318
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tvnmovies_ver1.png" group-title="Movies",613 TVN Movies
 rtp://@239.1.2.72:8408
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_zbioskop_ver1.png" group-title="Movies",614 Zee Bioskop
 rtp://@239.1.1.129:8748
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/cinemaworld.png" group-title="Movies",615 Cinema World
 rtp://@239.1.2.80:8578
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_myfamily_ver1.png" group-title="Movies",616 My Family Channel
-rtp://@239.1.1.237:9396
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_myfamily_ver1.png" group-title="Movies",616 My Family Channel
+#rtp://@239.1.1.237:9396
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_galaxy_big1.png" group-title="Movies",617 Galaxy
 rtp://@239.1.1.136:8790
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_bioskopindonesia_big1.png" group-title="Movies",618 Bioskop Indonesia
@@ -496,8 +498,8 @@ rtp://@239.1.1.239:9276
 rtp://@239.1.1.145:8844
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_galaxypremium_big.png" group-title="Movies",621 Galaxy Prenium
 rtp://@239.1.2.100:9518
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_new-mycinemaasia_big.png" group-title="Movies",624 My Cinema Asia
-rtp://@239.1.1.231:8062
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_new-mycinemaasia_big.png" group-title="Movies",624 My Cinema Asia
+#rtp://@239.1.1.231:8062
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/hbodolby.png" group-title="Movies",891 HBO Dolby
 rtp://@239.1.2.114:9428
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/hbosignaturedolby.png" group-title="Movies",892 HBO Signature Dolby
