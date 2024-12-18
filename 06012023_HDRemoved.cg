@@ -1,13 +1,13 @@
+#18Des24
+###################################################################################
+#####Champ 1, in###################################################################
+#####Champ 2, in###################################################################
+###################################################################################
 #01Okt24
 ###################################################################################
 #####My Cinema, out################################################################
 #####My Cinema Asia, out###########################################################
 #####My Family Channel, out########################################################
-###################################################################################
-#07Sept24
-###################################################################################
-#####MolaSports, in################################################################
-#####MolaGolf, in##################################################################
 ###################################################################################
 
 #EXTM3U
@@ -270,6 +270,10 @@ rtp://@239.1.1.248:9494
 rtp://@239.1.1.249:9496
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_fightsport_ver1.png" group-title="All Channel",704 Fight Sport
 rtp://@239.1.2.209:9196
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_champ1_HD.png" group-title="All Channel",705 CHAMPIONS TV1
+rtp://@239.1.2.32:8190
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_champ2_HD.png" group-title="All Channel",706 CHAMPIONS TV2
+rtp://@239.1.2.35:8181
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_champ5_HD.png" group-title="All Channel",707 CHAMPIONS TV5
 rtp://@239.1.2.45:8193
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_champ6_HD.png" group-title="All Channel",708 CHAMPIONS TV6
@@ -434,6 +438,10 @@ rtp://@239.1.1.248:9494
 rtp://@239.1.1.249:9496
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_fightsport_ver1.png" group-title="Sports",704 Fight Sport
 rtp://@239.1.2.209:9196
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_champ1_HD.png" group-title="Sports",705 CHAMPIONS TV1
+rtp://@239.1.2.32:8190
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_champ2_HD.png" group-title="Sports",706 CHAMPIONS TV2
+rtp://@239.1.2.35:8181
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_champ5_HD.png" group-title="Sports",707 CHAMPIONS TV5
 rtp://@239.1.2.45:8193
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_champ6_HD.png" group-title="Sports",708 CHAMPIONS TV6
