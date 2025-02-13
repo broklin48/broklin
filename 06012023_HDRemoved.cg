@@ -1,11 +1,12 @@
+#13Feb25-Last
+###################################################################################
+#####IndonesianaTV, Tvri kalteng, Lingua, Eat n go, out############################
+#####Ikonser, Seru, Mola sport, Mola golf, out#####################################
+#####Idtv jadi Berita Satu#########################################################
+###################################################################################
 #20Des24
 ###################################################################################
 #####Allplay Sports, in############################################################
-###################################################################################
-#18Des24
-###################################################################################
-#####Champ 1, in###################################################################
-#####Champ 2, in###################################################################
 ###################################################################################
 
 #EXTM3U
@@ -46,15 +47,15 @@ rtp://@239.1.1.214:8010
 rtp://@239.1.1.158:8922
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_dramakorealbs_big.png" group-title="All Channel",113 Drama Korea LBS
 #rtp://@239.1.2.101:9521
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_indonesiana_ver1.png" group-title="All Channel",113 Indonesiana TV
-rtp://@239.1.1.176:9197
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_indonesiana_ver1.png" group-title="All Channel",113 Indonesiana TV
+#rtp://@239.1.1.176:9197
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_kompastv_big.png" group-title="All Channel",114 Kompas TV
 rtp://@239.1.1.240:8017
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_beritasatu_big1.png" group-title="All Channel",115 BTV
 rtp://@239.1.1.114:9512
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_jaktv_big1.png" group-title="All Channel",116 Jak TV
 rtp://@239.1.1.107:8616
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_idtv.png" group-title="All Channel",117 IDTVHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/BERITASATU.png" group-title="All Channel",117 Berita Satu
 rtp://@239.1.2.5:8168
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_rtv_ver1.png" group-title="All Channel",118 RTV
 rtp://@239.1.1.253:8018
@@ -72,8 +73,8 @@ rtp://@239.1.1.6:8010
 rtp://@239.1.1.104:9511
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_ochannel_big.png" group-title="All Channel",125 Moji
 rtp://@239.1.1.10:9513
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tvrikalteng_big1.png" group-title="All Channel",126 TVRI Kalimantan Tengah
-rtp://@239.1.1.126:8533
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tvrikalteng_big1.png" group-title="All Channel",126 TVRI Kalimantan Tengah
+#rtp://@239.1.1.126:8533
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_nusantaratv_bigHD.png" group-title="All Channel",128 Nusantara TV
 rtp://@239.1.2.102:9522
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_inews_big.png" group-title="All Channel",129 iNews
@@ -108,13 +109,13 @@ rtp://@239.1.1.23:8112
 rtp://@239.1.1.208:9502
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_discovery_big.png" group-title="All Channel",207 Discovery
 rtp://@239.1.1.247:9440
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_lingua_big.png" group-title="All Channel",208 Lingua
-rtp://@239.1.1.131:8625
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_lingua_big.png" group-title="All Channel",208 Lingua
+#rtp://@239.1.1.131:8625
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_new-techstorm_big.png" group-title="All Channel",209 TechStorm
 rtp://@239.1.2.229:9330
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/DISCOVERYASIAHD.png" group-title="All Channel",210 Discovery Asia
 rtp://@239.1.1.118:8169
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/LOVENATUREHD.png" group-title="All Channel",211 Love Nature
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/LOVENATURE-88-OTT.png" group-title="All Channel",211 Love Nature
 rtp://@239.1.1.148:8158
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_davinci_big1.png" group-title="All Channel",303 Da Vinci
 rtp://@239.1.1.218:8011
@@ -142,8 +143,8 @@ rtp://@239.1.1.225:8013
 rtp://@239.1.1.140:9515
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_afc_ver1.png" group-title="All Channel",402 AFN
 rtp://@239.1.2.13:8052
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_eatgo_big1.png" group-title="All Channel",403 Eat & Go
-rtp://@239.1.1.229:9350
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_eatgo_big1.png" group-title="All Channel",403 Eat & Go
+#rtp://@239.1.1.229:9350
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_fashiontv_ver1.png" group-title="All Channel",404 Fashion TV
 rtp://@239.1.2.237:9348
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tlc_ver1.png" group-title="All Channel",406 TLC
@@ -154,8 +155,8 @@ rtp://@239.1.2.16:8070
 rtp://@239.1.1.152:8626
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_pramborstv_big1.png" group-title="All Channel",453 Prambors
 rtp://@239.1.1.254:8019
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_ikonser_big.png" group-title="All Channel",459 i Konser
-rtp://@239.1.2.221:9250
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_ikonser_big.png" group-title="All Channel",459 i Konser
+#rtp://@239.1.2.221:9250
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_hgtv_ver1.png" group-title="All Channel",500 HGTV
 rtp://@239.1.2.34:8178
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_blueantextreme_ver1.png" group-title="All Channel",501 Rock Action
@@ -164,8 +165,8 @@ rtp://@239.1.1.112:8646
 rtp://@239.1.1.142:8967
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_insert_big1.png" group-title="All Channel",503 Insert
 rtp://@239.1.1.113:8652
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_seru_big.png" group-title="All Channel",504 Seru!
-rtp://@239.1.1.111:8624
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_seru_big.png" group-title="All Channel",504 Seru!
+#rtp://@239.1.1.111:8624
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_lifetime_big.png" group-title="All Channel",505 Lifetime
 rtp://@239.1.1.25:8124
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_kix_ver1.png" group-title="All Channel",506 KIX
@@ -284,10 +285,10 @@ rtp://@239.1.2.210:9444
 rtp://@239.1.2.43:8189
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/w-sport.png" group-title="All Channel",711 WSport
 rtp://@239.1.2.61:8207
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/mola-sport.png" group-title="All Channel",712 Mola Sports
-rtp://@239.1.2.91:8236
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/mola-golf.png" group-title="All Channel",713 Mola Golf
-rtp://@239.1.2.99:8243
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/mola-sport.png" group-title="All Channel",712 Mola Sports
+#rtp://@239.1.2.91:8236
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/mola-golf.png" group-title="All Channel",713 Mola Golf
+#rtp://@239.1.2.99:8243
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_horizonsport_ver1.png" group-title="All Channel",714 Horizon Sports
 rtp://@239.1.2.201:9174
 ==kuncoro
@@ -378,15 +379,15 @@ rtp://@239.1.1.153:8627
 rtp://@239.1.1.214:8010
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_net_ver1.png" group-title="Local",112 Net TV
 rtp://@239.1.1.158:8922
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_indonesiana_ver1.png" group-title="Local",113 Indonesiana TV
-rtp://@239.1.1.176:9197
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_indonesiana_ver1.png" group-title="Local",113 Indonesiana TV
+#rtp://@239.1.1.176:9197
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_kompastv_big.png" group-title="Local",114 Kompas TV
 rtp://@239.1.1.240:8017
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_beritasatu_big1.png" group-title="Local",115 BTV
 rtp://@239.1.1.114:9512
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_jaktv_big1.png" group-title="Local",116 Jak TV
 rtp://@239.1.1.107:8616
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_idtv.png" group-title="Local",117 IDTVHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/BERITASATU.png" group-title="Local",117 Berita Satu
 rtp://@239.1.2.5:8168
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_rtv_ver1.png" group-title="Local",118 RTV
 rtp://@239.1.1.253:8018
@@ -404,8 +405,8 @@ rtp://@239.1.1.6:8010
 rtp://@239.1.1.104:9511
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_ochannel_big.png" group-title="Local",125 Moji
 rtp://@239.1.1.10:9513
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tvrikalteng_big1.png" group-title="Local",126 TVRI Kalimantan Tengah
-rtp://@239.1.1.126:8533
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_tvrikalteng_big1.png" group-title="Local",126 TVRI Kalimantan Tengah
+#rtp://@239.1.1.126:8533
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_nusantaratv_bigHD.png" group-title="Local",128 Nusantara TV
 rtp://@239.1.2.102:9522
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_inews_big.png" group-title="Local",129 iNews
@@ -454,10 +455,10 @@ rtp://@239.1.2.210:9444
 rtp://@239.1.2.43:8189
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/w-sport.png" group-title="Sports",711 WSport
 rtp://@239.1.2.61:8207
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/mola-sport.png" group-title="Sports",712 Mola Sports
-rtp://@239.1.2.91:8236
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/mola-golf.png" group-title="Sports",713 Mola Golf
-rtp://@239.1.2.99:8243
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/mola-sport.png" group-title="Sports",712 Mola Sports
+#rtp://@239.1.2.91:8236
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/mola-golf.png" group-title="Sports",713 Mola Golf
+#rtp://@239.1.2.99:8243
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_horizonsport_ver1.png" group-title="Sports",714 Horizon Sports
 rtp://@239.1.2.201:9174
 
@@ -564,8 +565,8 @@ rtp://@239.1.2.34:8178
 rtp://@239.1.1.112:8646
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_animax_big.png" group-title="Gen Entertainment",502 Animax
 rtp://@239.1.1.142:8967
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_seru_big.png" group-title="Gen Entertainment",504 Seru!
-rtp://@239.1.1.111:8624
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_seru_big.png" group-title="Gen Entertainment",504 Seru!
+#rtp://@239.1.1.111:8624
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_lifetime_big.png" group-title="Gen Entertainment",505 Lifetime
 rtp://@239.1.1.25:8124
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_kix_ver1.png" group-title="Gen Entertainment",506 KIX
@@ -636,16 +637,16 @@ rtp://@239.1.1.3:7992
 rtp://@239.1.2.88:8308
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_afc_ver1.png" group-title="Lifestyle",402 AFN
 rtp://@239.1.2.13:8052
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_eatgo_big1.png" group-title="Lifestyle",403 Eat & Go
-rtp://@239.1.1.229:9350
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_eatgo_big1.png" group-title="Lifestyle",403 Eat & Go
+#rtp://@239.1.1.229:9350
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_fashiontv_ver1.png" group-title="Lifestyle",404 Fashion TV
 rtp://@239.1.2.237:9348
 
 ========================
 ========================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_indonesiana_ver1.png" group-title="Knowledge",113 Indonesiana TV
-rtp://@239.1.1.176:9197
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_indonesiana_ver1.png" group-title="Knowledge",113 Indonesiana TV
+#rtp://@239.1.1.176:9197
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/CURIOSITYHD.png" group-title="Knowledge",201 Curiosity
 rtp://239.1.1.124:8157
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/ANIMALPLANETHD.png" group-title="Knowledge",202 Animal Planet
@@ -660,13 +661,13 @@ rtp://@239.1.1.23:8112
 rtp://@239.1.1.208:9502
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_discovery_big.png" group-title="Knowledge",207 Discovery
 rtp://@239.1.1.247:9440
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_lingua_big.png" group-title="Knowledge",208 Lingua
-rtp://@239.1.1.131:8625
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_lingua_big.png" group-title="Knowledge",208 Lingua
+#rtp://@239.1.1.131:8625
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_new-techstorm_big.png" group-title="Knowledge",209 TechStorm
 rtp://@239.1.2.229:9330
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/DISCOVERYASIAHD.png" group-title="Knowledge",210 Discovery Asia
 rtp://@239.1.1.118:8169
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/LOVENATUREHD.png" group-title="Knowledge",211 Love Nature
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/LOVENATURE-88-OTT.png" group-title="Knowledge",211 Love Nature
 rtp://@239.1.1.148:8158
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/phoenix_chineseHD.png" group-title="Knowledge",541 Phoenix Chinese
 rtp://@239.1.2.57:8210
@@ -680,8 +681,8 @@ rtp://@239.1.2.16:8070
 rtp://@239.1.1.152:8626
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_pramborstv_big1.png" group-title="Music",453 Prambors
 rtp://@239.1.1.254:8019
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_ikonser_big.png" group-title="Music",459 i Konser
-rtp://@239.1.2.221:9250
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_ikonser_big.png" group-title="Music",459 i Konser
+#rtp://@239.1.2.221:9250
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_citradangdut_big.png" group-title="Music",535 Citra Dangdut
 rtp://@239.1.1.24:9517
 
@@ -700,7 +701,7 @@ rtp://@239.1.1.31:8160
 rtp://@239.1.1.240:8017
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_beritasatu_big1.png" group-title="News",115 BTV
 rtp://@239.1.1.114:9512
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_idtv.png" group-title="News",117 IDTVHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/BERITASATU.png" group-title="News",117 Berita Satu
 rtp://@239.1.2.5:8168
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_idx_big.png" group-title="News",119 IDX Channel
 rtp://@239.1.2.248:9398
@@ -848,8 +849,8 @@ rtp://@239.1.1.146:7985
 rtp://@239.1.2.92:9490
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_Jowo_channel.png"group-title="SD Channel",Jowo
 rtp://@239.1.2.6:8000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_indonesiana_big.png"group-title="SD Channel",Indonesiana TV
-rtp://@239.1.1.206:9199
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_indonesiana_big.png"group-title="SD Channel",Indonesiana TV
+#rtp://@239.1.1.206:9199
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_natgeo_big.png"group-title="SD Channel",National Geographic
 #rtp://@239.1.1.169:8988
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_natgeowild_big.png"group-title="SD Channel",Natgeo Wild
@@ -864,8 +865,8 @@ rtp://@239.1.1.57:8316
 rtp://@239.1.1.208:9502
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_discovery_big.png"group-title="SD Channel",Discovery
 rtp://@239.1.1.43:8232
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_lingua_big.png"group-title="SD Channel",Lingua
-rtp://@239.1.2.90:9500
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_lingua_big.png"group-title="SD Channel",Lingua
+#rtp://@239.1.2.90:9500
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_new-techstorm_big.png"group-title="SD Channel",TechStorm
 rtp://@239.1.1.67:8376
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_davinci_big1.png"group-title="SD Channel",Da Vinci
@@ -892,8 +893,8 @@ rtp://@239.1.1.68:8382
 rtp://@239.1.1.127:8815
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_afc_big.png"group-title="SD Channel",AFN
 rtp://@239.1.2.12:8046
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_eatgo_big1.png"group-title="SD Channel",Eat & Go
-rtp://@239.1.1.229:9350
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_eatgo_big1.png"group-title="SD Channel",Eat & Go
+#rtp://@239.1.1.229:9350
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_fashiontv_big1.png"group-title="SD Channel",Fashion TV
 rtp://@239.1.1.79:8448
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_tlc_ver1.png"group-title="SD Channel",TLC
@@ -904,8 +905,8 @@ rtp://@239.1.1.5:8004
 rtp://@239.1.2.108:9523
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_prambors_big1.png"group-title="SD Channel",Prambors
 rtp://@239.1.1.227:9336
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_ikonser_big.png"group-title="SD Channel",i Konser
-rtp://@239.1.2.222:9256
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_ikonser_big.png"group-title="SD Channel",i Konser
+#rtp://@239.1.2.222:9256
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_hgtv_big.png"group-title="SD Channel",HGTV
 rtp://@239.1.1.210:9506
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_blueantext_big.png"group-title="SD Channel",Rock Action
@@ -914,8 +915,8 @@ rtp://@239.1.1.134:8778
 rtp://@239.1.1.64:8358
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_insert_big1.png"group-title="SD Channel",Insert
 rtp://@239.1.1.113:8652
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_seru_big.png"group-title="SD Channel",Seru!
-rtp://@239.1.2.109:9524
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_seru_big.png"group-title="SD Channel",Seru!
+#rtp://@239.1.2.109:9524
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_lifetime_big.png"group-title="SD Channel",Lifetime
 rtp://@239.1.1.181:9266
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_kix_big.png"group-title="SD Channel",KIX
