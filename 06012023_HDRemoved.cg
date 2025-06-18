@@ -85,8 +85,8 @@ rtp://@239.1.1.130:9514
 #rtp://@239.1.2.17:9379
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/JAWAPOSTV-88-HD.png" group-title="All Channel",132 JawaPos TV
 rtp://@239.1.2.37:8183
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_garudatv_big.png" group-title="All Channel",133 Garuda TV
-#rtp://@239.1.1.164:8965
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_garudatv_big.png" group-title="All Channel",133 Garuda TV
+rtp://@239.1.1.164:8965
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/SINDONEWSTV.png" group-title="All Channel",134 SINDO News TV
 rtp://@239.1.1.146:7985
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_cnbcindonesia_ver1.png" group-title="All Channel",135 CNBC Indonesia
@@ -417,8 +417,8 @@ rtp://@239.1.1.130:9514
 #rtp://@239.1.2.17:9379
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/JAWAPOSTV-88-HD.png" group-title="Local",132 JawaPos TV
 rtp://@239.1.2.37:8183
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_garudatv_big.png" group-title="Local",133 Garuda TV
-#rtp://@239.1.1.164:8965
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_garudatv_big.png" group-title="Local",133 Garuda TV
+rtp://@239.1.1.164:8965
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/SINDONEWSTV.png" group-title="Local",134 SINDO News TV
 rtp://@239.1.1.146:7985
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo/logo_cnbcindonesia_ver1.png" group-title="Local",135 CNBC Indonesia
@@ -841,8 +841,8 @@ rtp://@239.1.1.212:8967
 rtp://@239.1.2.74:8420
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_gprtv_big1.png"group-title="SD Channel",GPR TV
 rtp://@239.1.2.17:9379
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_garudatv_big.png"group-title="SD Channel",Garuda TV
-#rtp://@239.1.1.164:8965
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_garudatv_big.png"group-title="SD Channel",Garuda TV
+rtp://@239.1.1.164:8965
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/SINDONEWSTV.png"group-title="SD Channel",SINDO News TV
 rtp://@239.1.1.146:7985
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gltm48/olomomo/main/logo2/logo_cnbcid_big.png"group-title="SD Channel",CNBC Indonesia
